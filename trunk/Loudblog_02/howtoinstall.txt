@@ -1,0 +1,9 @@
+
+
+YOUR FIRST LOUDBLOG INSTALLATION
+================================
+
+1) Transfer all files and folders to the desired directory on your server.
+2) Open "install.php" with the browser of your choice.
+3) Follow the instructions there.
+4) Delete "install.php" after a successful installation!

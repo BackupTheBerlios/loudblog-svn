@@ -1,0 +1,341 @@
+ul,ol, li, dl {list-style:none; margin:0px; padding:0px;}
+h1, h2, h3, h4, h5, h6, p {margin:0;}
+
+a img,:link img,:visited img { border:none }
+:link,:visited {text-decoration:none}
+
+a:link {color:#CC3333;}
+a:visited {color:#CC3333;}
+a:hover {color:#9F356A;}
+
+* {margin:0px; padding:0px;}
+
+blockquote {background-color:#F7F5F2; border:1px dotted #E8E1DB; padding:4px 4px 0px 4px;}
+
+.linie { 
+	height:1px; 
+	font-size: 0.1em; 
+	line-height:1px;
+	background-color: #ddddcc;
+	margin:1px 0px;
+}
+
+.liniespace { 
+	height:1px; 
+	font-size: 0.1em; 
+	line-height:1px;
+	background-color: #ddddcc;
+	margin:13px 0px;
+}
+
+html>body {
+font-size: 10px;
+}
+
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size: 62.5%;
+	color:#333;
+    text-align:center;
+    background-color:  #F7F4F2;
+}
+
+
+#container {
+	width: 780px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFF;
+	text-align:left;
+}
+
+/*Formatiert Head mit Foto********/
+#top1 {
+	background-color: #FF7832;
+/*height hier anpassen wenn diese sich ndert*/
+	height: 77px;
+	color:#fff;
+}
+
+#top1 h1 {font-size: 1.8em; margin-top:13px; margin-left:20px;}
+#top1 p {font-size: 1.4em; margin-left:20px;}
+
+/*Formatiert Hauptnavigation********/
+#mainNavi {
+	background-color: #CCCC33;
+	font-size: 1.2em;
+	padding-top:6px;
+	border: 1px solid #ADAD2C;
+	font-size: 1.2em;
+	font-weight:bold;
+	padding-bottom: 6px;
+}
+
+#mainNavi ul {
+	 white-space: nowrap;
+}
+
+#mainNavi li {
+	display: inline;
+}
+
+#mainNavi li a {
+	padding: 6px 14px; 
+}
+
+#mainNavi a:link {color:#FFF;}
+#mainNavi a:visited {color:#FFF;}
+#mainNavi a:hover {color:#FFF; background-color:#CC9966;}
+
+/*Formatiert aktuellen Navigationspunkt********/
+#mainNavi li.current a:link {background-color:#CC9966; }
+
+/*Formatiert linke Spalte mit den Artikeln********/
+#content {
+	float: left;
+	width: 392px;
+}
+#content p, #sidebar-a p, #sidebar-b p {margin: 0px 0px 5px 0px; line-height:140%;}
+#content h4 {
+	font-size: 1em;
+	color: #333;
+	font-weight: bold;
+	line-height: 16px;
+}
+		
+	
+#text {
+	background-color:#E8E1DB;
+	padding: 1px 5px;
+	width: 382px;
+	\width: 392px;
+	w\idth: 382px;
+    font-size: 1em;
+    line-height:160%;
+}
+
+.headline h3 {
+	padding-left:5px;
+	font-size: 1.1em;
+}
+
+.headline a:link {color:#FFF;}
+.headline a:visited {color:#FFF;}
+.headline a:hover {color:#FFF;}
+
+.cat ul {
+	list-style-type:none;
+	padding: 0px;
+	margin: 0px 0px 5px 2px;
+}
+
+.cat li {
+	background-image:url(gif/list_item1.gif);
+	background-repeat:no-repeat;
+	background-position: 0px 4px;
+	padding-left: 20px;
+	padding-right: 10px;
+	margin: 0px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	display:inline;
+}
+
+.message {
+	background-image:url(gif/artikel_item1.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left: 40px;
+	padding-bottom:20px;
+	padding-top:5px;
+	margin-top:10px;
+	background-color: #FAF9F7;
+}
+
+.message ul, .message ol {padding-left:14px;}
+.message li {list-style:disc outside;}
+
+.links {
+	background-image:url(gif/artikel_item2.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left: 40px;
+	padding-top: 5px;
+	padding-bottom:24px;
+	min-height:33px;
+	margin-bottom: 10px;
+}
+
+.links dt {margin-top:3px;}
+
+.pods {
+	background:url(gif/artikel_item3.gif) left top no-repeat;
+	padding:5px 0px 8px 40px;
+	overflow: auto;
+	width: 322px;
+}
+/* \ */
+* html .pods
+{
+height: 1%;
+overflow: visible; 
+}
+/* */
+
+.flPlayer {float:left; width:100px;}
+
+.download {
+	float:left; 
+	width:150px;
+	\width:170px;
+	w\idth:150px;
+	font-style:italic;
+	font-weight:normal;
+	padding-left:20px;
+}
+
+#prevnext {text-align:center; font-weight:bold;}
+
+/*Formatierung der mittleren Spalte******/
+#sidebar-a {
+	float: left;
+	width: 215px;
+	background-image: url(gif/bg_side.jpg);
+	background-repeat: repeat-y;
+}
+
+#sidebar-a, #sidebar-b  {
+	background-image: url(gif/bg_side.jpg);
+	background-repeat: repeat-y;
+}
+/*Formatiert berschriften der Balken*/
+.aHead, .bHead {font-family: "Times New Roman", Georgia;
+         font-size: 1.2em; letter-spacing :0.2em; font-weight:bold;}
+
+.aHead {
+    width: 203px;
+	\width: 215px;
+	w\idth: 203px;
+	background:url(gif/aHead.gif) no-repeat 0px 0px;
+	color: #FFF;
+	padding: 6px;
+}
+
+.sideAText, .sideAPostings {
+	padding: 10px 6px 10px 16px;
+    font-size: 1em;
+}
+
+.sideAText ul, .sideAPostings ul {
+	list-style-type:none;
+	padding: 0px;
+	margin: 0px 0px 5px 0px;
+}
+
+.sideAText li, .sideAPostings li  {
+	background-image:url(gif/list_item1.gif);
+	background-repeat:no-repeat;
+	background-position: 0px 4px;
+	padding: 2px 0px 2px 20px;
+	margin: 0px;
+}
+
+/*Formatiert rechte Spalte*/
+#sidebar-b {
+	float: right;
+	width: 173px;
+    padding:0px;
+    margin:0px;
+}
+
+.bHead {
+	width: 161px;
+	\width: 173px;
+	w\idth: 161px;
+	color: #FFFFFF;
+	padding: 6px;
+	background-image: url(gif/bHead.gif);
+	background-repeat: no-repeat;
+}
+
+.sideBText {
+	color:#717162;
+	width:133px;
+	\width:161px;
+	w\idth:133px;
+	padding:10px 14px;
+}
+
+.impressum {text-align:center;}
+
+/*Formatiert Footer*/
+#footer {
+	clear: both;
+	background-color: #D3C5AD;
+	height: 20px;
+}
+
+/*css fuer runde ecken*/
+
+.headline {
+	background-color: #FF7832;
+}
+
+.nifty {
+	padding:0px 0px 8px 0px;
+	background-color: #E8E1DB;
+}
+.niftyIN {padding:0px 10px 0px 5px; background-color: #FAF9F7; }
+
+
+.rtop,.rbottom{display:block}
+.rtop *,.rbottom *{display:block;height:1px;overflow: hidden}
+.r1{margin: 0 5px}
+.r2{margin: 0 3px}
+.r3{margin: 0 2px}
+.r4{margin: 0 1px;height: 2px}
+
+.rs1{margin: 0 2px}
+.rs2{margin: 0 1px}
+
+
+.kommBu{text-align:right; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; margin: 5px 0;}
+.kommentar{width:360px;}
+.kommentar h2{font-size:1.4em; color:#DD5150;}
+
+label {display:block;}
+#commentsubmit, #commentpreview, #commentfile, #commentname, #commentmail, #commentweb, #commentmessage {
+border:1px solid #ccc;
+font:verdana 1.1em;
+width: 350px;
+margin-bottom: 7px;
+}
+
+#commentfile {
+width: auto;
+}
+
+#commentmessage {
+height: 100px;
+}
+
+#commentpreview, #commentsubmit {
+background:#D3C5AD;
+width: 172px;
+}
+
+#comments {
+padding-left: 8px;
+}
+
+.audiocomm {
+padding-top: 6px;
+}
+
+img.rss {
+vertical-align: middle;
+margin-bottom: 0.4em;
+}
+
+

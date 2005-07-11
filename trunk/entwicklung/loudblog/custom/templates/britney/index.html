@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+    <title><lb:sitename /> - <lb:siteslogan /></title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" media="screen" href="screen.css" type="text/css" />
+    <lb:rssfeedhead />
+    <meta http-equiv="content-language" content="en" />
+    <meta name="generator" content="Loudblog" />
+	<meta name="description" content="<lb:sitedescription />" />
+</head>
+
+
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+    <h1><lb:link_website><lb:sitename /></lb:link_website></h1>
+    <p><lb:siteslogan /></p>
+</div>
+
+<div id="headbox">
+
+    <div class="container">
+        <h2>Welcome</h2>
+        <p><lb:sitedescription /></p>
+        <p>
+        <lb:link_podcast>[RSS] Podcast feed</lb:link_podcast> 
+        <br />
+        <lb:link_podcast comments="true">[RSS] Podcast feed + comments</lb:link_podcast> 
+        
+        </p>
+    </div>
+    
+    <div class="container">
+        <h2>Last 5 Comments</h2>
+        <ul>
+        <lb:loop_comments global="true" number="5">
+            <li><lb:link_permacomment><lb:commentname /></lb:link_permacomment> (<lb:commentparent />)</li>
+        </lb:loop_comments>
+        </ul>
+    </div>
+
+    <div class="container">
+        <h2>Categories</h2>
+        <ul>
+        <lb:loop_categories sortby="name" order="asc">
+            <li><lb:link_catfeed>[RSS]</lb:link_catfeed> <lb:link_category><lb:categoryname /></lb:link_category></li>
+        </lb:loop_categories>
+        </ul>
+    </div>
+    
+    <div id="boxbottom"></div>
+
+</div>
+
+
+<div id="content">
+
+
+    <lb:loop_postings number="5" order="desc">
+
+    <div class="posting">
+        <h2><lb:link_permalink><lb:title /></lb:link_permalink></h2>
+        
+        <div class="box">
+        <lb:message />
+        </div>
+        
+        <div class="box">
+        <dl>
+        <lb:loop_hyperlinks>
+            <dt><lb:link_hyperlink><lb:hyperlinkname /></lb:link_hyperlink></dt>
+            <dd><lb:hyperlinkdescription /></dd>
+        </lb:loop_hyperlinks>
+        </dl>
+        </div>
+        
+        <div class="audiobox">
+        <lb:flashplayer width="200" height="70" />
+        
+        <p><lb:link_audio>&nbsp;Get <lb:audiotype /> (<lb:audiosize /> MB | <lb:audiolength /> min)</lb:link_audio></p>
+        </div>
+        
+
+        
+        <p class="author">
+            <lb:link_permalink>#</lb:link_permalink> 
+            <lb:posted /> 
+            by <lb:author /> | 
+            <lb:if_comments>
+            <lb:link_podcast single="true" comments="true" posting="false">[RSS]</lb:link_podcast>
+            <lb:link_comments>Comments</lb:link_comments> | </lb:if_comments>
+            <lb:loop_postingcats><lb:postingcat link="true" /> | </lb:loop_postingcats>
+        </p>
+
+    <lb:area_comments>
+    
+ <h2 id="commentheadline">Comments</h2>
+        <ol id="commentlist">
+        <lb:loop_comments>
+            <li>
+            <h4><lb:commentname /> says on <lb:commentposted format="M j, Y @ h:i A" />:</h4>
+            
+            <lb:if_commentaudio>
+            <div>
+            <lb:commentflashplayer height="21" width="150" />
+            <p><lb:link_commentfile>Download comment</lb:link_commentfile><br />(<lb:commentsize /> MB | <lb:commentlength /> min)</p>
+            </div>
+            </lb:if_commentaudio>
+            <lb:commentmessage />
+            </li>
+        </lb:loop_comments>
+        </ol>
+        
+        <lb:area_makecomment>
+            <h2>Your Comment</h2>
+            <div class="input">
+                <label for="commentname">Name</label>
+                <lb:inputname />
+            </div>
+            <div class="input">
+                <label for="commentmail">eMail</label>
+                <lb:inputmail />
+            </div>
+            <div class="input">
+                <label for="commentweb">URL</label>
+                <lb:inputweb />
+            </div>
+            
+            <div id="message" class="input">
+                <label for="commentmessage">Message</label>
+                <lb:inputmessage />
+            </div>
+            
+            <div id="file" class="input">
+                <label for="commentfile">Audio Comment (&lt;<lb:commentlimit /> MB)</label>
+                <lb:inputfile />
+            </div>
+
+            <div id="buttons" class="input">
+                <lb:buttonpreview />
+                <lb:buttonsend />
+            </div>
+        </lb:area_makecomment>    
+    </lb:area_comments>
+
+    </div>
+    
+
+
+    </lb:loop_postings>
+    
+    <div id="prevnext">
+        <p><lb:link_prev>&nbsp;<< Previous Page&nbsp;</lb:link_prev>
+        &nbsp;&nbsp;&nbsp; 
+        <lb:link_next>&nbsp;Next Page >>&nbsp;</lb:link_next></p>
+    </div>
+    
+    <div id="footer">
+    
+    <p>powered by <a href="http://loudblog.com">Loudblog</a></p>
+    
+    </div>
+    
+</div>
+
+
+
+</div>
+
+</body>
+
+</html>

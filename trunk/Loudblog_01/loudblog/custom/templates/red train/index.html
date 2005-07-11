@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/transitional.dtd" xml:lang="en" lang="en">
+<html>
+<!--
+  "Red Train"
+  Loudblog-Template
+  (c) by Vladimir Simovic aka Perun
+  www.vlad-design.de | www.perun.net
+-->
+<head>
+<title><lb:sitename /></title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="format.css" />
+</head>
+<body>
+<div id="container">
+
+<h1 id="header"><lb:link_website><lb:sitename /></lb:link_website></h1>
+
+<div id="navi">
+<div id="navi-innen">
+<h2>About <lb:sitename /></h2>
+<p><lb:sitedescription /></p>
+<p><lb:link_podcast>Podcast-Feed</lb:link_podcast></p>
+
+<h2>Last 10 Postings</h2>
+<ul>
+<lb:loop_postings number="10" forcelist="true" paging="false">
+<li><lb:link_permalink><lb:title /></lb:link_permalink> (<lb:link_audio><lb:audiotype /></lb:link_audio>)</li>
+</lb:loop_postings>
+</ul>
+
+<h2>Categories</h2>
+<ul>
+<lb:loop_categories>
+<li><lb:link_category><lb:categoryname /></lb:link_category></li>
+</lb:loop_categories>
+</ul>
+</div><!--Ende Navi innen--></div><!--Ende Navi-->
+
+<div id="content">
+
+<lb:loop_postings number="5">
+
+<h2><lb:link_permalink><lb:title /></lb:link_permalink></h2>
+
+<lb:message />
+
+<p><lb:link_audio>Listen now!</lb:link_audio> (<lb:audiosize /> MB)</p>
+
+<lb:if_mp3>
+<div class="flash">
+<lb:flashplayer height="60" width="120" />
+</div>
+</lb:if_mp3>
+
+<div class="posting-links">
+<dl>
+<lb:loop_hyperlinks>
+<dt><lb:link_hyperlink><lb:hyperlinkname /></lb:link_hyperlink></dt>
+<dd><lb:hyperlinkdescription /></dd>
+</lb:loop_hyperlinks>
+</dl>
+</div>
+
+<div class="posting-footer">
+<lb:link_permalink>#</lb:link_permalink> | <lb:posted /> by <lb:author /> | <lb:loop_postingcats><lb:postingcat link="true" /> | </lb:loop_postingcats>
+</div>
+
+</lb:loop_postings>
+
+
+<!--Beginn des Footers-->
+<div id="footer">Powered by <a href="http://loudblog.com">Loudblog</a>. Template by <a href="http://www.vlad-design.de">Vladimir Simovic</a></div>
+
+</div><!--Ende Content-->
+
+</div><!--Ende Container-->
+</body>
+</html>

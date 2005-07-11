@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+    <title><lb:sitename /> - <lb:siteslogan /></title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" media="screen" href="screen.css" type="text/css" />
+    <lb:rssfeedhead />
+    <meta http-equiv="content-language" content="en" />
+    <meta name="generator" content="Loudblog" />
+	<meta name="description" content="<lb:sitedescription />" />
+</head>
+
+
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+    <h1><lb:link_website><lb:sitename /></lb:link_website></h1>
+    <p><lb:siteslogan /></p>
+</div>
+
+<div id="headbox">
+
+    <div class="container">
+        <h2>Welcome</h2>
+        <p><lb:sitedescription /></p>
+        <p><lb:link_podcast>Get Podcast-Feed here!</lb:link_podcast></p>
+    </div>
+    
+    <div class="container">
+        <h2>Last 5 Postings</h2>
+        <ul>
+        <lb:loop_postings number="5" paging="false" forceloop="true">
+            <li><lb:link_permalink><lb:title /></lb:link_permalink></li>
+        </lb:loop_postings>
+        </ul>
+    </div>
+
+    <div class="container">
+        <h2>Categories</h2>
+        <ul>
+        <lb:loop_categories sortby="name" order="asc">
+            <li><lb:link_category><lb:categoryname /></lb:link_category></li>
+        </lb:loop_categories>
+        </ul>
+    </div>
+    
+    <div id="boxbottom"></div>
+
+</div>
+
+
+<div id="content">
+
+
+
+    <lb:loop_postings number="5" order="desc">
+
+    <div class="posting">
+        <h2><lb:link_permalink><lb:title /></lb:link_permalink></h2>
+        
+        <div class="box">
+        <lb:message />
+        </div>
+        
+        <div class="box">
+        <dl>
+        <lb:loop_hyperlinks>
+            <dt><lb:link_hyperlink><lb:hyperlinkname /></lb:link_hyperlink></dt>
+            <dd><lb:hyperlinkdescription /></dd>
+        </lb:loop_hyperlinks>
+        </dl>
+        </div>
+        
+        <div class="audiobox">
+        <lb:flashplayer width="200" height="70" />
+        
+        <p><lb:link_audio>Download <lb:audiotype /> (<lb:audiosize /> MB)</lb:link_audio></p>
+        </div>
+        
+
+        
+        <p class="author"><lb:link_permalink>#</lb:link_permalink> <lb:posted /> by <lb:author /> | <lb:loop_postingcats><lb:postingcat link="true" /> | </lb:loop_postingcats></p>
+
+    </div>
+
+    </lb:loop_postings>
+    
+    <div id="prevnext">
+        <p><lb:link_prev>&nbsp;<< Previous Page&nbsp;</lb:link_prev>
+        &nbsp;&nbsp;&nbsp; 
+        <lb:link_next>&nbsp;Next Page >>&nbsp;</lb:link_next></p>
+    </div>
+    
+    <div id="footer">
+    
+    <p>powered by <a href="http://loudblog.com">Loudblog</a></p>
+    
+    </div>
+    
+</div>
+
+
+
+</div>
+
+</body>
+
+</html>

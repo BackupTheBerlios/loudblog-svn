@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/transitional.dtd" xml:lang="en" lang="en">
+<html>
+<!--
+  "Red Train"
+  Loudblog-Template
+  (c) by Vladimir Simovic aka Perun
+  www.vlad-design.de | www.perun.net
+-->
+<head>
+<title><lb:sitename /></title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="format.css" />
+</head>
+<body>
+<div id="container">
+
+<h1 id="header"><lb:link_website><lb:sitename /></lb:link_website></h1>
+
+<div id="navi">
+<div id="navi-innen">
+<h2>About <lb:sitename /></h2>
+<p><lb:sitedescription /></p>
+<p><lb:link_podcast>Podcast-Feed</lb:link_podcast></p>
+
+<h2>Categories</h2>
+<ul>
+<lb:loop_categories>
+<li><lb:link_category><lb:categoryname /></lb:link_category></li>
+</lb:loop_categories>
+</ul>
+
+
+<h2>Last 5 Postings</h2>
+<ul>
+<lb:loop_postings number="5" forceloop="true" paging="false">
+<li><lb:link_permalink><lb:title /></lb:link_permalink></li>
+</lb:loop_postings>
+</ul>
+
+<h2>Last 5 Comments</h2>
+<ul>
+<lb:loop_comments number="5" global="true">
+<li><lb:link_permacomment><lb:commentname /></lb:link_permacomment> (<lb:commentparent />)</li>
+</lb:loop_comments>
+</ul>
+
+
+</div><!--Ende Navi innen--></div><!--Ende Navi-->
+
+<div id="content">
+
+<lb:loop_postings number="5">
+
+<h2><lb:link_permalink><lb:title /></lb:link_permalink></h2>
+
+<lb:message />
+
+<lb:if_audio>
+
+<p><lb:link_audio>Listen now!</lb:link_audio> (<lb:audiolength />min / <lb:audiosize />MB)</p>
+
+<lb:if_mp3>
+<div class="flash">
+<lb:flashplayer height="60" width="120" />
+</div>
+</lb:if_mp3>
+
+</lb:if_audio>
+
+<div class="posting-links">
+<dl>
+<lb:loop_hyperlinks>
+<dt><lb:link_hyperlink><lb:hyperlinkname /></lb:link_hyperlink></dt>
+<dd><lb:hyperlinkdescription /></dd>
+</lb:loop_hyperlinks>
+</dl>
+</div>
+
+<div class="posting-footer">
+<lb:link_permalink>#</lb:link_permalink> | <lb:posted /> by <lb:author /> | <lb:if_comments> <lb:link_comments>Comments</lb:link_comments> |</lb:if_comments> <lb:loop_postingcats><lb:postingcat link="true" /> | </lb:loop_postingcats>
+</div>
+
+
+<lb:area_comments>
+    
+ <h2 id="commentheadline">Comments</h2>
+        <ol id="commentlist">
+        <lb:loop_comments>
+            <li>
+            <strong><lb:commentname /> says on <lb:commentposted format="M j, Y @ h:i A" />:</strong>
+            
+            <lb:if_commentaudio>
+            <div>
+            <lb:commentflashplayer height="21" width="150" />
+            <p><lb:link_commentfile>Listen now!</lb:link_commentfile> (<lb:commentlength />min / <lb:commentsize />MB)</p>
+            </div>
+            </lb:if_commentaudio>
+            <lb:commentmessage />
+            </li>
+        </lb:loop_comments>
+        </ol>
+        
+        <lb:area_makecomment>
+            <h2>Your Comment</h2>
+            <div id="felder">
+            <div class="input">
+                <label>Name</label>
+                <lb:inputname />
+            </div>
+            <div class="input">
+                <label>eMail</label>
+                <lb:inputmail />
+            </div>
+            <div class="input">
+                <label>Website</label>
+                <lb:inputweb />
+            </div>
+            
+            <div id="message" class="input">
+                <label>Message</label>
+                <lb:inputmessage />
+            </div>
+            
+            <div id="file" class="input">
+                <label>Audio (<<lb:commentlimit />MB)</label>
+                <lb:inputfile />
+            </div>
+
+            <div id="buttons" class="input">
+                <label></label>
+                <lb:buttonpreview />
+                <label></label>
+                <lb:buttonsend />
+            </div>
+            </div>
+        </lb:area_makecomment>    
+    </lb:area_comments>
+
+
+
+
+
+</lb:loop_postings>
+
+
+<!--Beginn des Footers-->
+<div id="footer">Powered by <a href="http://loudblog.com">Loudblog</a>. Template by <a href="http://www.vlad-design.de">Vladimir Simovic</a></div>
+
+</div><!--Ende Content-->
+
+</div><!--Ende Container-->
+</body>
+</html>

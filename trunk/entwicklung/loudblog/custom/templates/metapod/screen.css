@@ -1,0 +1,408 @@
+body
+{
+	background: #fff url(images/bgshadow.gif) repeat-y 50% 0;
+	font: 11px/120% "Lucida Grande", Verdana, Helvetica, sans-serif ;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+p, blockquote, li, h3
+{
+	font-family: Verdana, "Lucida Grande", Tahoma, Helvetica;
+	font-size: 11px;
+	line-height: 18px;
+	text-align: left;
+	/*padding-left: 10px;
+	padding-right: 10px;*/
+}
+
+blockquote 
+{
+	padding: 0px 8px 0px 8px;
+	margin: 8px 0px 8px 8px;
+	border-left: 1px solid #bbb;
+	font-style: italic;
+	color: #666;
+}
+
+hr {
+	width: 100%;
+	height: 1px;
+	color: #fff;
+	border: none;
+	border-top: 1px dotted #aaa; 
+	margin: 0px 0 10px 0;
+}
+
+#header { 
+	background-image: url(images/header.jpg); 
+	width: 766px; 
+	height: 172px
+}
+
+#home a 
+{
+	background: url(images/home.gif) no-repeat 0px 0px;
+	width:55px;
+}
+#aktuell a 
+{
+	background: url(images/aktuell.gif) no-repeat 0px 0px;
+	width:59px;
+}
+#features a 
+{
+	background: url(images/features.gif) no-repeat 0px 0px;
+	width:69px;
+}
+#interviews a 
+{
+	background: url(images/interviews.gif) no-repeat 0px 0px;
+	width:82px;
+}
+#tests a 
+{
+	background: url(images/tests.gif) no-repeat 0px 0px;
+	width:48px;
+}
+#forum a 
+{
+	background: url(images/forum.gif) no-repeat 0px 0px;
+	width:54px;
+}
+#uebermetamac a 
+{
+	background: url(images/uebermetamac.gif) no-repeat 0px 0px;
+	width:108px;
+}
+#menu 
+{
+	position: relative;
+	margin-left:14px;
+	top: -43px;
+	width: 766px; 
+	height: 34px;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0;		
+	width: 766px;
+	list-style-type: none;
+	white-space: nowrap;
+} 
+
+#menu ul li {
+	display: block;
+	float: left;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+}
+
+#menu a {
+	display: block;
+ 	text-indent: -1000px;
+	height: 34px;
+	border-bottom: none;
+}  
+
+#menu a:active, #menu a.selected {
+	background-position: 0 -40px; 
+}
+
+#menu a:hover {
+	background-position: 0 -81px; 
+}
+#right p, #left p
+{
+	line-height: 15px;
+	font-size: 10px;
+}
+
+#left p
+{
+	text-align: right;
+}
+
+#head
+{
+	text-align: center;
+	height: 100px;
+}
+
+#container
+{
+	width: 766px;
+	\width: 776px;
+	w\idth: 766px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#left
+{
+	float: left;
+	font:  11px/150% Verdana, Geneva, sans-serif;
+	margin: 0; 
+	padding:0px 20px 0 25px;
+	width: 436px;
+}
+
+#center
+{
+	float: left;
+	font:  11px/150% Verdana, Geneva, sans-serif;
+	margin: 0; 
+	padding: 0px 20px 0 25px;
+	width: 436px;
+}
+
+#right
+{
+	float: left;
+	font:  11px/150% Verdana, Geneva, sans-serif;
+	margin: 0; 
+	padding: 0px 20px 0 24px;
+	width: 240px;
+}
+
+#foot
+{
+	color: #999;
+	font:  9px/150% Verdana, Geneva, sans-serif;
+	clear: both;
+	text-align: center;
+}
+
+a:link { 
+	color: #600; 
+	text-decoration: none;
+	border-bottom: 1px dotted #600;
+}
+
+a:visited { 
+	color: #663; 
+	text-decoration: none;
+	border-bottom:  1px dotted #999;
+}
+
+a:active { 
+	color: #600; 
+	text-decoration: none:
+	border-bottom: 1px solid #600;
+}
+
+a:hover { 
+	color: #600; 
+	text-decoration: none;
+	border-bottom: 1px solid #600;
+}
+
+#right h2 {
+	color: #333; 
+	font: bold 14px/150% "Lucida Grande", Verdana, Helvetica, sans-serif;
+}
+
+h1  { 
+	color: #111; 
+	font: bold 18px/100% Georgia, Times, "Times New Roman", serif;
+}
+
+h2  
+{ 
+	color: #111; 
+	font: bold 30px/110% Georgia, Times, "Times New Roman", serif;
+	text-shadow: 3px 3px 8px #ccc;
+	margin: 0 0 6px 0;
+}
+
+
+h2.taeglich 
+{
+ 	color: #036;
+	font: bold 30px/110% Georgia, Times, "Times New Roman", serif;
+	text-shadow: 3px 3px 8px #fff;
+	margin: 0 0 6px 0;
+}
+h3
+{
+	color: #111; 
+	font: bold 18px/100% Georgia, Times, "Times New Roman", serif;
+	margin-bottom: 6px;
+}
+
+/*h3 a
+{
+	border: 0px;
+	font-weight: normal;
+	font-family: Georgia, Times, Serif;
+	font-size: 14px;
+}*/
+h5 
+{ 
+	font: bold 14px/100% "Lucida Grande", Verdana, Helvetica, sans-serif;	text-transform: uppercase;
+	letter-spacing:.2em;
+	color: #111;
+	text-shadow: 3px 3px 6px #ccc;
+	margin: 5px 0 10px 0;
+}
+small 
+{ 
+	color: #333; 
+	font: 10px Verdana, "Lucida Grande", Helvetica, sans-serif;
+}
+small.taeglich
+{
+	color: #036; 
+}
+.caps
+{
+	letter-spacing: 0.1em;
+	font-size: 10px;
+}
+select
+{ 
+	font : 11px/100% "Lucida Grande", Verdana, Helvetica, sans-serif;
+	color: #000000; 
+	width:160px;
+}
+.suchen input
+{ 
+	font : 11px/100% "Lucida Grande", Verdana, Helvetica, sans-serif;
+	color: #000000; 
+	width:160px;
+}
+li 
+{	
+	margin: 0 0 4px -40px;
+	padding: 2px 0 2px 13px;
+	list-style: none;
+	background: url(images/bullet.gif) no-repeat 0px 7px;
+}
+.artikel li 
+{	
+	margin: 0 0 0 -40px;
+	padding: 2px 0 2px 13px;
+	list-style: none;
+	background: url(images/i_artikel.gif) no-repeat 0px 6px;
+}
+
+.vorschau li 
+{	
+	margin: 0 0 0 -40px;
+	padding: 2px 0 2px 13px;
+	list-style: none;
+	background: url(images/i_preview.gif) no-repeat 0px 6px;
+}
+.kommentar li 
+{	
+	margin: 0 0 0 -40px;
+	padding: 2px 0 2px 13px;
+	list-style: none;
+	background: url(images/kommentar.gif) no-repeat 0px 5px;
+}
+.schedule li 
+{	
+	margin: 0 0 0 -40px;
+	padding: 2px 0 2px 13px;
+	list-style: none;
+	background: url(images/uhr.gif) no-repeat 0px 6px;
+}
+.img a, a.img
+{
+	text-decoration: none;
+	border: none;
+}
+img
+{
+	text-decoration: none;
+	border: none;
+}
+#pullquote 
+{ 
+	float: left; 
+	margin-right: 24px; 
+	margin-left: 0px; 
+	margin-bottom: 12px; 
+	width: auto; 
+	font: bold 20px/113% Georgia, Times, "Times New Roman", serif;
+	color: #444; 
+	text-align: left; 
+	display: inline;
+}
+
+/* Bilder --------------------------------------------------------*/
+
+.bild { 
+	margin:0px 0px 4px 0px;
+	border: none;
+}
+
+.bildrahmen { 
+	margin:0px 0px 4px 0px;
+	padding: 5px; 
+	border: solid 1px #aaa
+}
+
+.bildlinks {
+	float:left;
+	margin:3px 12px 10px 0px;
+	border: none;
+}
+  
+.bildrechts {
+	float:right;
+	margin:3px 0px 10px 12px;
+	border: none;
+}
+
+.bildlinksrahmen {
+	float:left;
+	margin:3px 12px 3px 0px;
+	padding: 5px; 
+	border: solid 1px #aaa
+
+}
+  
+.bildrechtsrahmen {
+	float:right;
+	margin:3px 0px 5px 12px;
+	padding: 5px; 
+	border: solid 1px #aaa
+}
+.bildfotoreihe {
+	float:left;
+	margin:3px 8px 3px 0px;
+	padding: 5px; 
+	border: solid 1px #aaa
+}
+.rechtsb { 
+	text-align: right; 
+	float: right; 
+}
+.form1 { 
+
+	width:300px;
+}
+label {
+	float:left;
+	width:25%;
+	padding-top:3px;
+	margin-right:5px;
+	font-size:90%;
+	text-align:right;
+}
+
+fieldset { 
+	border:1px solid silver; 
+}
+fieldset p { 
+	margin:0 0 4px 0; 
+	padding:0; 
+}
+legend {
+	font-weight:bold;
+	font-size:14px;
+}

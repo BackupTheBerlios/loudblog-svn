@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+    <title><lb:sitename /> - <lb:siteslogan /></title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" media="screen" href="screen.css" type="text/css" />
+    <lb:rssfeedhead />
+    <meta http-equiv="content-language" content="en" />
+    <meta name="generator" content="Loudblog" />
+	<meta name="description" content="<lb:sitedescription />" />
+</head>
+
+
+<body>
+
+<div id="container">
+
+<!-- head -->
+<a href="http://www.metamac.de/content/" style="text-decoration:none;border-bottom: none"><div id="header"></div></a>
+			
+<div id="menu">
+	<ul>
+		<li id="home"><a href="/content" class="selected">Home</a></li>
+		<li id="aktuell"><a href="/content/Taeglich">Taeglich</a></li>
+		<li id="features"><a href="/content/Features">Features</a></li>
+		<li id="interviews"><a href="/content/Interviews">Interviews</a></li>
+		<li id="tests"><a href="/content/Tests">Tests</a></li>
+		<li id="forum"><a href="/forum">Forum</a></li>
+		<li id="uebermetamac"><a href="/content/about">&Uuml;ber metamac</a></li>
+	</ul>
+</div>
+
+
+<div id="center">
+
+    <lb:loop_postings number="5" order="desc">
+
+    <h2 class="img"><lb:link_permalink><font color="black"><lb:title /></font></lb:link_permalink></h2>
+
+	<lb:message />
+	
+	<lb:if_mp3>
+	
+	<lb:flashplayer />
+	
+	</lb:if_mp3>
+	
+    <dl>
+        <lb:loop_hyperlinks>
+            <dt><lb:link_hyperlink><lb:hyperlinkname /></lb:link_hyperlink></dt>
+            <dd><lb:hyperlinkdescription /></dd>
+        </lb:loop_hyperlinks>
+    </dl>
+
+<p><small><lb:author /> | <lb:link_permalink><lb:posted /></lb:link_permalink></small></p>
+
+<hr />
+
+    </lb:loop_postings>
+    
+    
+    <p style="text-align:right;"><lb:link_prev>< J&uuml;nger</lb:link_prev>&nbsp;&nbsp;<lb:link_next>&Auml;lter ></lb:link_next></p>
+    
+    
+<small>Copyright 2004-2005. Ein <a href="http://www.metadeur.de">metadeur</a>-Produkt.<br />
+
+
+Herausgeber: Ben Schwan. Gestaltung: Michael Preidel. Powered by <a href="http://loudblog.de">Loudblog</a>.</small>
+</div>
+
+
+
+
+
+</div>
+
+</body>
+
+</html>

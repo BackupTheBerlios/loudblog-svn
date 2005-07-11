@@ -1,0 +1,24 @@
+
+
+YOUR FIRST LOUDBLOG INSTALLATION
+================================
+
+1) Transfer all files and folders to the desired directory on your server.
+2) Open "install.php" with the browser of your choice.
+3) Follow the instructions there.
+4) Delete "install.php" after a successful installation!
+
+
+
+
+
+YOU WANT TO USE CGI/PERL FOR BETTER UPLOADING?
+==============================================
+
+Only useful if your server is able to execute cgi scripts.
+
+1) Locate the folder "loudblog/modules/cgi-bin".
+2) Set permission "777" for this folder.
+3) Locate files "upload.cgi" and "download.cgi" within "cgi-bin".
+4) Set permission "755" for these two files.
+5) That's it.

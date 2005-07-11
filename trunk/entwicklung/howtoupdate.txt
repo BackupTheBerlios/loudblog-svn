@@ -1,0 +1,26 @@
+
+
+YOU WANT TO UPDATE FROM LOUDBLOG 0.1 OR LOUDBLOG 0.2?
+=====================================================
+
+Here we go!
+
+1) Replace everything in the "loudblog" folder with the new stuff 
+   - except for the "custom" folder!!!
+2) Open "loudblog/update01-03.php" or "loudblog/update02-03.php" 
+   with the browser of your choice.
+3) Now login, go to settings tab, and activate the cool new features.
+4) Delete those update-files from your server!
+
+
+
+YOU WANT TO USE CGI/PERL FOR BETTER UPLOADING?
+==============================================
+
+Only useful if your server is able to execute cgi scripts.
+
+1) Locate the folder "loudblog/modules/cgi-bin".
+2) Set permission "777" for this folder.
+3) Locate files "upload.cgi" and "download.cgi" within "cgi-bin".
+4) Set permission "755" for these two files.
+5) That's it.

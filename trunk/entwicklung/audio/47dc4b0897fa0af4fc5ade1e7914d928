@@ -1,0 +1,177 @@
+O:9:"magpierss":25:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:31:{i:0;a:8:{s:5:"about";s:69:"http://pchere.blogspot.com/2005/03/great-flickr-tools-collection.html";s:5:"title";s:34:"The Great  Flickr Tools Collection";s:4:"link";s:69:"http://pchere.blogspot.com/2005/03/great-flickr-tools-collection.html";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-30T20:31:00Z";s:7:"subject";s:12:"flickr tools";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112214660;}i:1;a:10:{s:5:"about";s:48:"http://homepage.mac.com/butlers/iPhotoExtractor/";s:5:"title";s:16:"iPhoto Extractor";s:4:"link";s:48:"http://homepage.mac.com/butlers/iPhotoExtractor/";s:11:"description";s:55:"Hilfe bei der Wiederherstellung einer iPhoto Bibliothek";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-30T18:49:00Z";s:7:"subject";s:12:"iphoto tools";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:55:"Hilfe bei der Wiederherstellung einer iPhoto Bibliothek";s:14:"date_timestamp";i:1112208540;}i:2;a:8:{s:5:"about";s:63:"http://timcn.de/blog/2005/03/29/datenbankexport-mit-phpmyadmin/";s:5:"title";s:30:"Datenbankexport mit phpMyAdmin";s:4:"link";s:63:"http://timcn.de/blog/2005/03/29/datenbankexport-mit-phpmyadmin/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-29T20:10:00Z";s:7:"subject";s:5:"mysql";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112127000;}i:3;a:8:{s:5:"about";s:64:"http://www.baekdal.com/articles/usability/usable-XMLHttpRequest/";s:5:"title";s:33:"Usable XMLHttpRequest in Practice";s:4:"link";s:64:"http://www.baekdal.com/articles/usability/usable-XMLHttpRequest/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-25T21:24:00Z";s:7:"subject";s:7:"XMLHttp";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111785840;}i:4;a:8:{s:5:"about";s:21:"http://twothirty.com/";s:5:"title";s:20:"twothirty media inc.";s:4:"link";s:21:"http://twothirty.com/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-23T19:00:00Z";s:7:"subject";s:11:"inspiration";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111604400;}i:5;a:10:{s:5:"about";s:37:"http://www.chatelp.org/?s=DeliciTunes";s:5:"title";s:11:"DeliciTunes";s:4:"link";s:37:"http://www.chatelp.org/?s=DeliciTunes";s:11:"description";s:30:"iTunes nach Delicious Monster.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-19T07:19:00Z";s:7:"subject";s:9:"osx tools";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:30:"iTunes nach Delicious Monster.";s:14:"date_timestamp";i:1111216740;}i:6;a:8:{s:5:"about";s:50:"http://www.regenechsen.de/regex_de/regex_1_de.html";s:5:"title";s:24:"Deutsches Regex Tutorial";s:4:"link";s:50:"http://www.regenechsen.de/regex_de/regex_1_de.html";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-18T08:59:00Z";s:7:"subject";s:5:"regex";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111136340;}i:7;a:8:{s:5:"about";s:36:"http://www.regular-expressions.info/";s:5:"title";s:38:"Regex Tutorial, Examples and Reference";s:4:"link";s:36:"http://www.regular-expressions.info/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-18T08:58:00Z";s:7:"subject";s:5:"regex";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111136280;}i:8;a:8:{s:5:"about";s:62:"http://loosewire.typepad.com/blog/2005/03/a_directory_of_.html";s:5:"title";s:47:"A Directory Of Programs Designed For USB Drives";s:4:"link";s:62:"http://loosewire.typepad.com/blog/2005/03/a_directory_of_.html";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-18T08:57:00Z";s:7:"subject";s:9:"tools usb";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111136220;}i:9;a:8:{s:5:"about";s:73:"http://www.2sheds.ru/blog/2005/03/integrating-news-feeds-using-magpie.php";s:5:"title";s:39:"Integrating news feeds using Magpie RSS";s:4:"link";s:73:"http://www.2sheds.ru/blog/2005/03/integrating-news-feeds-using-magpie.php";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-18T08:56:00Z";s:7:"subject";s:25:"delicious movabletype rss";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111136160;}i:10;a:8:{s:5:"about";s:38:"http://www.meyerweb.com/eric/tools/s5/";s:5:"title";s:46:"S5: A Simple Standards-Based Slide Show System";s:4:"link";s:38:"http://www.meyerweb.com/eric/tools/s5/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-13T07:42:00Z";s:7:"subject";s:16:"css presentation";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1110699720;}i:11;a:8:{s:5:"about";s:44:"http://beust.com/weblog/archives/000254.html";s:5:"title";s:33:"Automatic filing with del.icio.us";s:4:"link";s:44:"http://beust.com/weblog/archives/000254.html";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-11T19:43:00Z";s:7:"subject";s:20:"delicious read_later";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1110570180;}i:12;a:8:{s:5:"about";s:54:"http://stadt.heim.at/newyork/132368/Firefox/index.html";s:5:"title";s:36:"Firefox G3, G4 optimiert auf Deutsch";s:4:"link";s:54:"http://stadt.heim.at/newyork/132368/Firefox/index.html";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-11T19:25:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1110569100;}i:13;a:10:{s:5:"about";s:44:"http://www.sequenz.ch/links/development/css/";s:5:"title";s:19:"CSS [sequenz/links]";s:4:"link";s:44:"http://www.sequenz.ch/links/development/css/";s:11:"description";s:45:"Links zu Seiten rund um Cascading Stylesheets";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-08T20:51:00Z";s:7:"subject";s:3:"css";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:45:"Links zu Seiten rund um Cascading Stylesheets";s:14:"date_timestamp";i:1110315060;}i:14;a:8:{s:5:"about";s:61:"http://www.ranks.nl/cgi-bin/ranksnl/spider/spider.cgi?lang=de";s:5:"title";s:24:"Keyword density analyzer";s:4:"link";s:61:"http://www.ranks.nl/cgi-bin/ranksnl/spider/spider.cgi?lang=de";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-08T18:53:00Z";s:7:"subject";s:3:"seo";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1110307980;}i:15;a:10:{s:5:"about";s:62:"http://www.yourhtmlsource.com/sitemanagement/urlrewriting.html";s:5:"title";s:13:"URL Rewriting";s:4:"link";s:62:"http://www.yourhtmlsource.com/sitemanagement/urlrewriting.html";s:11:"description";s:42:"Redirecting URLs with Apache?s mod_rewrite";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-08T17:38:00Z";s:7:"subject";s:14:"apache rewrite";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:42:"Redirecting URLs with Apache?s mod_rewrite";s:14:"date_timestamp";i:1110303480;}i:16;a:8:{s:5:"about";s:20:"http://www.4by6.com/";s:5:"title";s:19:"Welcome to 4by6.com";s:4:"link";s:20:"http://www.4by6.com/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-05T07:09:00Z";s:7:"subject";s:11:"inspiration";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1110006540;}i:17;a:10:{s:5:"about";s:63:"http://en.wikipedia.org/wiki/List_of_content_management_systems";s:5:"title";s:34:"List of content management systems";s:4:"link";s:63:"http://en.wikipedia.org/wiki/List_of_content_management_systems";s:11:"description";s:19:"Wikipedia sei Dank.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-04T19:38:00Z";s:7:"subject";s:3:"cms";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:19:"Wikipedia sei Dank.";s:14:"date_timestamp";i:1109965080;}i:18;a:10:{s:5:"about";s:25:"http://www.mybloglog.com/";s:5:"title";s:9:"MyBlogLog";s:4:"link";s:25:"http://www.mybloglog.com/";s:11:"description";s:79:"Service für Blogger, der es ermöglicht, Klicks auf ausgehende Links zu tracken.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-04T19:33:00Z";s:7:"subject";s:7:"webapps";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:79:"Service für Blogger, der es ermöglicht, Klicks auf ausgehende Links zu tracken.";s:14:"date_timestamp";i:1109964780;}i:19;a:10:{s:5:"about";s:37:"http://www.schubert-it.com/pluginpdf/";s:5:"title";s:18:"PDF Browser Plugin";s:4:"link";s:37:"http://www.schubert-it.com/pluginpdf/";s:11:"description";s:42:"Verwandelt den Browse in einen PDF-Viewer.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-04T19:29:00Z";s:7:"subject";s:9:"osx tools";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:42:"Verwandelt den Browse in einen PDF-Viewer.";s:14:"date_timestamp";i:1109964540;}i:20;a:8:{s:5:"about";s:41:"http://trikuare.cx/mt/archives/000425.php";s:5:"title";s:69:"Using phpBB as your MovableType comment engine in 23847392 easy steps";s:4:"link";s:41:"http://trikuare.cx/mt/archives/000425.php";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-04T19:28:00Z";s:7:"subject";s:11:"movabletype";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1109964480;}i:21;a:10:{s:5:"about";s:47:"http://flip.macrobyte.net/software/ic-switch_en";s:5:"title";s:9:"IC-Switch";s:4:"link";s:47:"http://flip.macrobyte.net/software/ic-switch_en";s:11:"description";s:79:"Kleines Tool zum schnellen Ändern von Default Applikationen für FTP, Mail, Web.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-04T14:03:00Z";s:7:"subject";s:9:"osx tools";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:79:"Kleines Tool zum schnellen Ändern von Default Applikationen für FTP, Mail, Web.";s:14:"date_timestamp";i:1109944980;}i:22;a:10:{s:5:"about";s:36:"http://www.rknet.it/program/delibar/";s:5:"title";s:7:"Delibar";s:4:"link";s:36:"http://www.rknet.it/program/delibar/";s:11:"description";s:63:"Zugriff auf del.icio.us Bookmarks über die Mac OS X Menüleiste.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-04T13:31:00Z";s:7:"subject";s:9:"osx tools";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:63:"Zugriff auf del.icio.us Bookmarks über die Mac OS X Menüleiste.";s:14:"date_timestamp";i:1109943060;}i:23;a:10:{s:5:"about";s:32:"http://www.mibasoft.dk/iaddressx";s:5:"title";s:9:"iAddressX";s:4:"link";s:32:"http://www.mibasoft.dk/iaddressx";s:11:"description";s:52:"Schneller Zugriff auf das Adressbuch unter Mac OS X.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-04T13:30:00Z";s:7:"subject";s:10:"os tools x";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:52:"Schneller Zugriff auf das Adressbuch unter Mac OS X.";s:14:"date_timestamp";i:1109943000;}i:24;a:8:{s:5:"about";s:51:"http://www.nyphp.org/content/presentations/GDintro/";s:5:"title";s:35:"Introduction to PHP Image Functions";s:4:"link";s:51:"http://www.nyphp.org/content/presentations/GDintro/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-03T07:15:00Z";s:7:"subject";s:12:"php tutorial";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1109834100;}i:25;a:8:{s:5:"about";s:27:"http://tuxtina.de/software/";s:5:"title";s:16:"delicious2safari";s:4:"link";s:27:"http://tuxtina.de/software/";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-02T20:39:00Z";s:7:"subject";s:3:"osx";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1109795940;}i:26;a:10:{s:5:"about";s:25:"http://www.icals.de/sport";s:5:"title";s:8:"icals.de";s:4:"link";s:25:"http://www.icals.de/sport";s:11:"description";s:18:"Kalender für iCal.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-01T20:55:00Z";s:7:"subject";s:3:"osx";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:18:"Kalender für iCal.";s:14:"date_timestamp";i:1109710500;}i:27;a:10:{s:5:"about";s:22:"http://www.slogans.de/";s:5:"title";s:10:"SLOGANS.DE";s:4:"link";s:22:"http://www.slogans.de/";s:11:"description";s:26:"Die Datenbank der Werbung.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-01T20:46:00Z";s:7:"subject";s:7:"webapps";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:26:"Die Datenbank der Werbung.";s:14:"date_timestamp";i:1109709960;}i:28;a:10:{s:5:"about";s:17:"http://wists.com/";s:5:"title";s:5:"Wists";s:4:"link";s:17:"http://wists.com/";s:11:"description";s:19:"Visuelle Bookmarks.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-01T20:44:00Z";s:7:"subject";s:7:"webapps";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:19:"Visuelle Bookmarks.";s:14:"date_timestamp";i:1109709840;}i:29;a:10:{s:5:"about";s:37:"http://hetima.com/safari/stand-e.html";s:5:"title";s:11:"SafariStand";s:4:"link";s:37:"http://hetima.com/safari/stand-e.html";s:11:"description";s:60:"Kostenloses Plugin erweitert den Funktionsumfang von Safari.";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-01T20:30:00Z";s:7:"subject";s:10:"osx safari";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:60:"Kostenloses Plugin erweitert den Funktionsumfang von Safari.";s:14:"date_timestamp";i:1109709000;}i:30;a:10:{s:5:"about";s:17:"http://plone.org/";s:5:"title";s:5:"Plone";s:4:"link";s:17:"http://plone.org/";s:11:"description";s:37:"Open Source Content Management System";s:2:"dc";a:3:{s:7:"creator";s:12:"pixelgraphix";s:4:"date";s:20:"2005-03-01T20:29:00Z";s:7:"subject";s:3:"cms";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:37:"Open Source Content Management System";s:14:"date_timestamp";i:1109708940;}}s:7:"channel";a:5:{s:5:"title";s:24:"del.icio.us/pixelgraphix";s:4:"link";s:31:"http://del.icio.us/pixelgraphix";s:5:"items";s:3:"
+ 
+";s:9:"items_seq";s:95:"
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ ";s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"1.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:13:"current_field";s:0:"";s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";s:13:"last_modified";s:31:"Sat, 02 Apr 2005 06:21:03 GMT
+";s:4:"etag";s:22:"31313132343232383633
+";}

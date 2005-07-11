@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+<!--
+  "Amsterdam Nights"
+  Loudblog-Template
+  by Oliver Roick / www.rollsroick.de
+-->
+<head>
+    <title><lb:sitename /></title>
+    <lb:rssfeedhead />
+    <meta http-equiv="content-language" content="en" />
+    <meta name="generator" content="Loudblog" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="<lb:sitedescription />" />
+	<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="head"><div id="blog_title"><lb:link_website><lb:sitename /></lb:link_website></div></div>
+	<div id="main">
+		
+		<lb:loop_postings>
+		
+		<div class="post">
+            <div class="date">
+                <small><lb:author /> &mdash; <lb:posted /></small>
+            </div>		
+
+            <h1><lb:link_permalink><lb:title /></lb:link_permalink></h1>
+
+            <div class="entry">		
+                <lb:message />
+                
+                <lb:if_audio>
+                <p><lb:link_audio>Download <lb:audiotype />, <lb:audiolength />min, <lb:audiosize /> MB</lb:link_audio></p>
+                
+                <p><lb:flashplayer width="355" height="28" /></p>
+                </lb:if_audio>
+                <dl>
+                <lb:loop_hyperlinks>
+                <dt><lb:link_hyperlink><lb:hyperlinkname /></lb:link_hyperlink></dt>
+                <dd><lb:hyperlinkdescription /></dd>
+                </lb:loop_hyperlinks>
+                </dl>
+            </div>
+		
+            <div class="post_info">
+                <small>Filed under: 
+                <lb:loop_postingcats><lb:postingcat link="true" />,&nbsp;</lb:loop_postingcats> <lb:if_comments> &mdash; <lb:link_comments>Comments </lb:link_comments></lb:if_comments></small>
+            </div>
+		
+		</div>
+		
+		<lb:area_comments>
+ <h2 id="commentheadline"><lb:link_podcast comments="true" single="true" posting="false"><img class="rss" alt="RSS" src="images/rss.png" title="Get Podcast feed for <lb:title />" /></lb:link_podcast> All Comments &raquo;</h2>
+        <ol id="commentlist">
+        <lb:loop_comments>
+            <li class="graybox">
+            <cite>Comment by <lb:commentname /> @ <lb:commentposted format="F d, Y, h:i a" /></cite>
+            <lb:commentmessage />
+            <lb:if_commentaudio>
+            <div class="commentflash">
+            <lb:commentflashplayer height="21" width="150" />
+            </div>
+            <p><lb:commentlength />min | <lb:commentsize />MB | <lb:link_commentfile>Download</lb:link_commentfile></p>
+        
+            </lb:if_commentaudio>
+            <div class="commentshowmessage">
+            
+            </div>
+            </li>
+        </lb:loop_comments>
+        </ol>
+        
+        <lb:area_makecomment>
+        <div id="commentform">
+            <h2 class="commentheadline">Leave a comment</h2>
+            <p>
+                <label for="commentname">Name</label>
+                <lb:inputname />
+            </p>
+            <p>
+                <label for="commentmail">Mail</label>
+                <lb:inputmail />
+            </p>
+            <p>
+                <label for="commentweb">Website</label>
+                <lb:inputweb />
+            </p>
+            <p>
+                <label for="commentmessage">Your Text Comment</label>
+                <lb:inputmessage />
+            </p>
+            <p>
+                <label for="commentfile">Your Audio Comment (up to <lb:commentlimit />MB)</label>
+                <lb:inputfile />
+            </p>
+
+            <p>
+                <lb:buttonpreview />
+                <lb:buttonsend />
+            </p>
+        </div>
+        </lb:area_makecomment>    
+    </lb:area_comments>
+
+		
+        </lb:loop_postings>
+        
+        <div id="prevnext">
+        <p><lb:link_prev>&laquo; Previous Page</lb:link_prev>
+        &nbsp;&nbsp;&nbsp; 
+        <lb:link_next>Next Page &raquo;</lb:link_next></p>
+    </div>
+		
+	</div>
+	<div id="sidebar">
+	
+        <h4>About <lb:sitename /></h4>
+        <p><lb:sitedescription /></p>
+        
+        <h4>Subscribing</h4>
+        <ul>
+            <li><lb:link_podcast><img class="rss" alt="RSS" src="images/rss.png" title="Get Podcast feed" /></lb:link_podcast> Podcast Feed</li>
+            <li><lb:link_podcast comments="true"><img class="rss" alt="RSS" src="images/rss.png" title="Get Podcast feed" /></lb:link_podcast> Podcast + Comments</li>
+        </ul>       
+               
+                
+        <h4>Categories</h4>
+		<ul>
+		  <lb:loop_categories>
+			<li>
+                <lb:link_catfeed><img alt="RSS" class="rss" src="images/rss.png" title="Get Podcast feed for <lb:categoryname />" /></lb:link_catfeed> 
+			 	<lb:link_category><lb:categoryname /></lb:link_category></li>
+		  </lb:loop_categories>	
+		</ul>
+		
+		<h4>Last Ten Comments</h4>
+		<ul>
+		  <lb:loop_comments number="10" global="true">
+			<li><lb:link_permacomment><lb:commentname /> &ndash; <lb:commentparent /></lb:link_permacomment></li>
+		  </lb:loop_comments>	
+		</ul>
+		
+		<h4>Last Ten Posts</h4>
+		<ul>
+		  <lb:loop_postings number="10" forceloop="true" paging="false">
+			<li><lb:link_permalink><lb:title /></lb:link_permalink></li>
+		  </lb:loop_postings>	
+		</ul>
+
+
+	</div>
+	<div id="footer">
+	<p>Powered by <a href="http://loudblog.de">Loublog</a> | Theme by <a href="http://rollsroick.de">Oliver Roick</a></p></div>
+</div>
+
+
+
+</body>
+</html>

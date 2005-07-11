@@ -1,0 +1,186 @@
+O:9:"magpierss":25:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:31:{i:0;a:8:{s:5:"about";s:18:"http://coda.co.za/";s:5:"title";s:9:"coda.coza";s:4:"link";s:18:"http://coda.co.za/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-07T21:42:00Z";s:7:"subject";s:21:"blog css design fluid";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:18:"
+    
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112910120;}i:1;a:8:{s:5:"about";s:26:"http://jszen.blogspot.com/";s:5:"title";s:29:"The Strange Zen Of JavaScript";s:4:"link";s:26:"http://jszen.blogspot.com/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-06T19:15:00Z";s:7:"subject";s:4:"ajax";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112814900;}i:2;a:8:{s:5:"about";s:49:"http://textpattern.org/plugins/324/haktextiletags";s:5:"title";s:50:"hak_textile_tags | plugins | Textpattern Resources";s:4:"link";s:49:"http://textpattern.org/plugins/324/haktextiletags";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-06T19:14:00Z";s:7:"subject";s:16:"textpattern todo";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112814840;}i:3;a:8:{s:5:"about";s:48:"http://www.pangeasoft.net/pano/plugin/index.html";s:5:"title";s:56:"Pangea Software Panoramic Photography : PangeaVR plug-in";s:4:"link";s:48:"http://www.pangeasoft.net/pano/plugin/index.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-06T16:19:00Z";s:7:"subject";s:12:"pimpmysafari";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112804340;}i:4;a:8:{s:5:"about";s:37:"http://www.gallifreyone.com/index.php";s:5:"title";s:17:"Outpost Gallifrey";s:4:"link";s:37:"http://www.gallifreyone.com/index.php";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-05T12:57:00Z";s:7:"subject";s:5:"drwho";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112705820;}i:5;a:8:{s:5:"about";s:62:"http://www.info.com.ph/~etan/w3pantheon/style/starhtmlbug.html";s:5:"title";s:22:"Star html Selector Bug";s:4:"link";s:62:"http://www.info.com.ph/~etan/w3pantheon/style/starhtmlbug.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-04T21:08:00Z";s:7:"subject";s:17:"css filters hacks";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112648880;}i:6;a:8:{s:5:"about";s:48:"http://www.m-techdirect.co.uk/Inkjet%20Cards.htm";s:5:"title";s:48:"INKJET CARDS Business Cards Postcards Tent Cards";s:4:"link";s:48:"http://www.m-techdirect.co.uk/Inkjet%20Cards.htm";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-04T18:37:00Z";s:7:"subject";s:8:"printers";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112639820;}i:7;a:8:{s:5:"about";s:90:"http://www.printingdirect.com/products/business_cards/plastic_business_cards.php?view=plas";s:5:"title";s:22:"Plastic Business Cards";s:4:"link";s:90:"http://www.printingdirect.com/products/business_cards/plastic_business_cards.php?view=plas";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-04T18:37:00Z";s:7:"subject";s:8:"printers";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112639820;}i:8;a:8:{s:5:"about";s:66:"http://rise.lewander.com/textpattern/97/txpglobal-variable-pretext";s:5:"title";s:47:"txp:global variable pretext | Textpattern | rDS";s:4:"link";s:66:"http://rise.lewander.com/textpattern/97/txpglobal-variable-pretext";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-04T07:58:00Z";s:7:"subject";s:11:"textpattern";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112601480;}i:9;a:8:{s:5:"about";s:59:"http://www.stopdesign.com/log/2004/12/16/small-screens.html";s:5:"title";s:36:"Stopdesign | Targeting Small Screens";s:4:"link";s:59:"http://www.stopdesign.com/log/2004/12/16/small-screens.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-02T22:16:00Z";s:7:"subject";s:13:"css handhelds";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112480160;}i:10;a:8:{s:5:"about";s:46:"http://www.htmldog.com/ptg/archives/000055.php";s:5:"title";s:51:"HTML and CSS for Mobiles - HTML Dog Blog - HTML Dog";s:4:"link";s:46:"http://www.htmldog.com/ptg/archives/000055.php";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-02T22:15:00Z";s:7:"subject";s:13:"css handhelds";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112480100;}i:11;a:8:{s:5:"about";s:89:"http://www.collylogic.com/index.php?/weblog/comments/7_steps_to_better_handheld_browsing/";s:5:"title";s:47:"CollyLogic: 7 steps to better handheld browsing";s:4:"link";s:89:"http://www.collylogic.com/index.php?/weblog/comments/7_steps_to_better_handheld_browsing/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-02T22:11:00Z";s:7:"subject";s:13:"css handhelds";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112479860;}i:12;a:8:{s:5:"about";s:35:"http://thraxil.org/test/resize.html";s:5:"title";s:11:"resize test";s:4:"link";s:35:"http://thraxil.org/test/resize.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-02T21:24:00Z";s:7:"subject";s:19:"dom javascript todo";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112477040;}i:13;a:8:{s:5:"about";s:82:"http://www.cabinetoffice.gov.uk/e-government/resources/handbook/html/htmlindex.asp";s:5:"title";s:52:"Illustrated Handbook for Web Management Teams (html)";s:4:"link";s:82:"http://www.cabinetoffice.gov.uk/e-government/resources/handbook/html/htmlindex.asp";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-02T21:23:00Z";s:7:"subject";s:17:"accessibility web";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112476980;}i:14;a:8:{s:5:"about";s:87:"http://blog.deconcept.com/2005/03/31/proper-flash-embedding-flashobject-best-practices/";s:5:"title";s:62:"deconcept ? Proper Flash embedding: FlashObject Best Practices";s:4:"link";s:87:"http://blog.deconcept.com/2005/03/31/proper-flash-embedding-flashobject-best-practices/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-01T14:41:00Z";s:7:"subject";s:5:"flash";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112366460;}i:15;a:8:{s:5:"about";s:49:"http://www.tantek.com/CSS/Examples/inlinehpf.html";s:5:"title";s:23:"Inline High Pass Filter";s:4:"link";s:49:"http://www.tantek.com/CSS/Examples/inlinehpf.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-01T10:32:00Z";s:7:"subject";s:11:"css filters";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112351520;}i:16;a:8:{s:5:"about";s:48:"http://www.tantek.com/CSS/Examples/highpass.html";s:5:"title";s:16:"High Pass Filter";s:4:"link";s:48:"http://www.tantek.com/CSS/Examples/highpass.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-01T10:31:00Z";s:7:"subject";s:11:"css filters";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112351460;}i:17;a:8:{s:5:"about";s:55:"http://www.tantek.com/CSS/Examples/ie50winbandpass.html";s:5:"title";s:30:"IE5.0/Windows Band Pass Filter";s:4:"link";s:55:"http://www.tantek.com/CSS/Examples/ie50winbandpass.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-04-01T10:31:00Z";s:7:"subject";s:11:"css filters";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112351460;}i:18;a:8:{s:5:"about";s:27:"http://ranchero.com/bigcat/";s:5:"title";s:41:"Ranchero Software: Big Cat Scripts Plugin";s:4:"link";s:27:"http://ranchero.com/bigcat/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-31T08:37:00Z";s:7:"subject";s:28:"applescript osx pimpmysafari";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112258220;}i:19;a:8:{s:5:"about";s:29:"http://tool-man.org/dragsort/";s:5:"title";s:52:"Drag-and-drop Sortable Lists with JavaScript and CSS";s:4:"link";s:29:"http://tool-man.org/dragsort/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-30T08:01:00Z";s:7:"subject";s:14:"dom javascript";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112169660;}i:20;a:8:{s:5:"about";s:53:"http://www.overclockers.co.uk/acatalog/mousemats.html";s:5:"title";s:23:"high quality mouse mats";s:4:"link";s:53:"http://www.overclockers.co.uk/acatalog/mousemats.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-29T18:36:00Z";s:7:"subject";s:9:"mousemats";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112121360;}i:21;a:8:{s:5:"about";s:87:"http://www.neuroticweb.com/recursos/css-rounded-box/index.php?color=cccccc&fondo=ffffff";s:5:"title";s:25:"CSS Rounded Box Generator";s:4:"link";s:87:"http://www.neuroticweb.com/recursos/css-rounded-box/index.php?color=cccccc&fondo=ffffff";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-27T16:29:00Z";s:7:"subject";s:13:"css resources";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111940940;}i:22;a:8:{s:5:"about";s:47:"http://www.xheadsoftware.com/recorder_xhead.asp";s:5:"title";s:60:"Voice Recorder: A Voice Recorder & Audio Player for Mac OS X";s:4:"link";s:47:"http://www.xheadsoftware.com/recorder_xhead.asp";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-26T19:42:00Z";s:7:"subject";s:14:"osx podcasting";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111866120;}i:23;a:8:{s:5:"about";s:37:"http://safari.macprime.ch/index_.html";s:5:"title";s:29:"| Safari SWI: : macprime.ch |";s:4:"link";s:37:"http://safari.macprime.ch/index_.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-25T01:05:00Z";s:7:"subject";s:12:"pimpmysafari";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111712700;}i:24;a:8:{s:5:"about";s:24:"http://www.zoffware.com/";s:5:"title";s:19:"Welcome to zoffWare";s:4:"link";s:24:"http://www.zoffware.com/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-23T16:56:00Z";s:7:"subject";s:12:"pimpmysafari";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111596960;}i:25;a:8:{s:5:"about";s:19:"http://www.offf.ws/";s:5:"title";s:38:"OFFF2005... Cosas que nunca existieron";s:4:"link";s:19:"http://www.offf.ws/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-22T21:03:00Z";s:7:"subject";s:6:"design";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111525380;}i:26;a:8:{s:5:"about";s:40:"http://www.bitart.com/CocoaGestures.html";s:5:"title";s:33:"bitart consulting: cocoa gestures";s:4:"link";s:40:"http://www.bitart.com/CocoaGestures.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-22T20:42:00Z";s:7:"subject";s:12:"pimpmysafari";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111524120;}i:27;a:8:{s:5:"about";s:44:"http://www.cocoasuite.com/manual/manual.html";s:5:"title";s:17:"CocoaSuite Manual";s:4:"link";s:44:"http://www.cocoasuite.com/manual/manual.html";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-22T20:42:00Z";s:7:"subject";s:12:"pimpmysafari";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111524120;}i:28;a:8:{s:5:"about";s:61:"http://www.pixelmeadow.com/blog/2005/2/8/remember-commenters/";s:5:"title";s:56:"Pixel Meadow: HOWTO: Better Remembered Commenters in TXP";s:4:"link";s:61:"http://www.pixelmeadow.com/blog/2005/2/8/remember-commenters/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-22T10:53:00Z";s:7:"subject";s:16:"textpattern todo";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111488780;}i:29;a:8:{s:5:"about";s:21:"http://elsakawai.com/";s:5:"title";s:86:"elsakawai.com 2004 :: Unique Creation :: Anual design show :: Providence, Rhode Island";s:4:"link";s:21:"http://elsakawai.com/";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-18T11:11:00Z";s:7:"subject";s:22:"design flash portfolio";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111144260;}i:30;a:8:{s:5:"about";s:56:"http://css-discuss.incutio.com/?page=HandheldStylesheets";s:5:"title";s:34:"Handheld Stylesheets - css-discuss";s:4:"link";s:56:"http://css-discuss.incutio.com/?page=HandheldStylesheets";s:2:"dc";a:3:{s:7:"creator";s:8:"jonhicks";s:4:"date";s:20:"2005-03-18T11:09:00Z";s:7:"subject";s:18:"css handhelds todo";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1111144140;}}s:7:"channel";a:5:{s:5:"title";s:20:"del.icio.us/jonhicks";s:4:"link";s:27:"http://del.icio.us/jonhicks";s:5:"items";s:3:"
+ 
+";s:9:"items_seq";s:95:"
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ ";s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"1.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:13:"current_field";s:0:"";s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";s:13:"last_modified";s:31:"Thu, 07 Apr 2005 21:42:48 GMT
+";s:4:"etag";s:22:"31313132393130313638
+";}

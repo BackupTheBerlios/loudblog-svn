@@ -1,0 +1,207 @@
+O:9:"magpierss":25:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:31:{i:0;a:8:{s:5:"about";s:27:"http://refspoof.mozdev.org/";s:5:"title";s:28:"mozdev.org - refspoof: index";s:4:"link";s:27:"http://refspoof.mozdev.org/";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T07:23:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112944980;}i:1;a:8:{s:5:"about";s:83:"http://www.ipkonfig.com/cms/index.php?option=com_content&task=view&id=165&Itemid=29";s:5:"title";s:12:"ipkonfig.com";s:4:"link";s:83:"http://www.ipkonfig.com/cms/index.php?option=com_content&task=view&id=165&Itemid=29";s:2:"dc";a:3:{s:7:"creator";s:5:"plovs";s:4:"date";s:20:"2005-04-08T07:21:00Z";s:7:"subject";s:49:"browser firefox hacks howto internet tutorial web";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112944860;}i:2;a:8:{s:5:"about";s:92:"http://dunck.us/collab/GreaseMonkeyUserScripts#head-8365decd714f9162e9db9eb6e33c7e1f666cfb6b";s:5:"title";s:50:"GreaseMonkeyUserScripts - An Unnamed MoinMoin Wiki";s:4:"link";s:92:"http://dunck.us/collab/GreaseMonkeyUserScripts#head-8365decd714f9162e9db9eb6e33c7e1f666cfb6b";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T07:19:00Z";s:7:"subject";s:30:"extension firefox greasemonkey";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112944740;}i:3;a:8:{s:5:"about";s:36:"http://rephrase.net/box/js-markdown/";s:5:"title";s:22:"rephrase § js-markdown";s:4:"link";s:36:"http://rephrase.net/box/js-markdown/";s:2:"dc";a:3:{s:7:"creator";s:12:"johannilsson";s:4:"date";s:20:"2005-04-08T07:15:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112944500;}i:4;a:8:{s:5:"about";s:28:"http://www.rakaz.nl/nucleus/";s:5:"title";s:5:"rakaz";s:4:"link";s:28:"http://www.rakaz.nl/nucleus/";s:2:"dc";a:3:{s:7:"creator";s:12:"silentcolors";s:4:"date";s:20:"2005-04-08T07:13:00Z";s:7:"subject";s:23:"blog css design firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:18:"
+    
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112944380;}i:5;a:10:{s:5:"about";s:47:"http://www.rakaz.nl/nucleus/index.php?itemid=10";s:5:"title";s:18:"Firefox wallpapers";s:4:"link";s:47:"http://www.rakaz.nl/nucleus/index.php?itemid=10";s:11:"description";s:8:"in rakaz";s:2:"dc";a:3:{s:7:"creator";s:12:"silentcolors";s:4:"date";s:20:"2005-04-08T07:12:00Z";s:7:"subject";s:23:"blog firefox image post";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:18:"
+    
+    
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:8:"in rakaz";s:14:"date_timestamp";i:1112944320;}i:6;a:8:{s:5:"about";s:40:"http://www.linuxjournal.com/article/8004";s:5:"title";s:45:"Ten Mysteries of about:config | Linux Journal";s:4:"link";s:40:"http://www.linuxjournal.com/article/8004";s:2:"dc";a:3:{s:7:"creator";s:11:"strandloper";s:4:"date";s:20:"2005-04-08T07:04:00Z";s:7:"subject";s:20:"firefox reading tips";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112943840;}i:7;a:10:{s:5:"about";s:39:"http://rc3.org/cgi-bin/less.pl?arg=6887";s:5:"title";s:31:"rc3.org | Making Firefox scream";s:4:"link";s:39:"http://rc3.org/cgi-bin/less.pl?arg=6887";s:11:"description";s:35:"These are changes I made to configs";s:2:"dc";a:3:{s:7:"creator";s:10:"bluesdance";s:4:"date";s:20:"2005-04-08T07:02:00Z";s:7:"subject";s:11:"firefox web";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:35:"These are changes I made to configs";s:14:"date_timestamp";i:1112943720;}i:8;a:8:{s:5:"about";s:115:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=66";s:5:"title";s:50:"Mozilla Update :: Extensions -- More Info: deskCut";s:4:"link";s:115:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=66";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T06:39:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112942340;}i:9;a:8:{s:5:"about";s:74:"http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-aviary1.0.1/";s:5:"title";s:60:"Index of /pub/mozilla.org/firefox/nightly/latest-aviary1.0.1";s:4:"link";s:74:"http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-aviary1.0.1/";s:2:"dc";a:3:{s:7:"creator";s:2:"dt";s:4:"date";s:20:"2005-04-08T06:38:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112942280;}i:10;a:8:{s:5:"about";s:35:"http://blakeross.com/index.php?p=39";s:5:"title";s:48:"Blake Ross on Firefox and Beyond » Dear Firefox,";s:4:"link";s:35:"http://blakeross.com/index.php?p=39";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T06:26:00Z";s:7:"subject";s:35:"firefox hash password salt security";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:23:"
+    
+    
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112941560;}i:11;a:8:{s:5:"about";s:32:"http://www.moox.ws/tech/mozilla/";s:5:"title";s:33:"MOOX :: Welcome to my Werxshop...";s:4:"link";s:32:"http://www.moox.ws/tech/mozilla/";s:2:"dc";a:3:{s:7:"creator";s:8:"marstein";s:4:"date";s:20:"2005-04-08T06:20:00Z";s:7:"subject";s:26:"compile firefox hack speed";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:18:"
+    
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112941200;}i:12;a:8:{s:5:"about";s:40:"http://www.linuxjournal.com/article/8004";s:5:"title";s:37:"Ten Mysteries of Firefox about:config";s:4:"link";s:40:"http://www.linuxjournal.com/article/8004";s:2:"dc";a:3:{s:7:"creator";s:6:"antrix";s:4:"date";s:20:"2005-04-08T06:19:00Z";s:7:"subject";s:13:"firefox howto";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112941140;}i:13;a:8:{s:5:"about";s:49:"http://extensionroom.mozdev.org/more-info/venkman";s:5:"title";s:39:"Venkman Javascript debugger for firefox";s:4:"link";s:49:"http://extensionroom.mozdev.org/more-info/venkman";s:2:"dc";a:3:{s:7:"creator";s:7:"ctwomey";s:4:"date";s:20:"2005-04-08T06:18:00Z";s:7:"subject";s:24:"firefox javascript tools";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112941080;}i:14;a:8:{s:5:"about";s:55:"http://extensionroom.mozdev.org/more-info/clearhttpauth";s:5:"title";s:33:"Clear HTTP Auth Firefox extension";s:4:"link";s:55:"http://extensionroom.mozdev.org/more-info/clearhttpauth";s:2:"dc";a:3:{s:7:"creator";s:7:"ctwomey";s:4:"date";s:20:"2005-04-08T06:15:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940900;}i:15;a:8:{s:5:"about";s:47:"http://extensionroom.mozdev.org/more-info/ruler";s:5:"title";s:27:"MeasureIt Firefox extension";s:4:"link";s:47:"http://extensionroom.mozdev.org/more-info/ruler";s:2:"dc";a:3:{s:7:"creator";s:7:"ctwomey";s:4:"date";s:20:"2005-04-08T06:13:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940780;}i:16;a:8:{s:5:"about";s:54:"http://extensionroom.mozdev.org/more-info/browseimages";s:5:"title";s:31:"Browse Images Firefox extension";s:4:"link";s:54:"http://extensionroom.mozdev.org/more-info/browseimages";s:2:"dc";a:3:{s:7:"creator";s:7:"ctwomey";s:4:"date";s:20:"2005-04-08T06:12:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940720;}i:17;a:8:{s:5:"about";s:46:"http://yq.search.yahoo.com/splash/firefox.html";s:5:"title";s:19:"Y!Q Beta on Firefox";s:4:"link";s:46:"http://yq.search.yahoo.com/splash/firefox.html";s:2:"dc";a:3:{s:7:"creator";s:8:"claudine";s:4:"date";s:20:"2005-04-08T06:11:00Z";s:7:"subject";s:13:"firefox yahoo";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940660;}i:18;a:8:{s:5:"about";s:46:"http://dunck.us/collab/GreaseMonkeyUserScripts";s:5:"title";s:50:"GreaseMonkeyUserScripts - An Unnamed MoinMoin Wiki";s:4:"link";s:46:"http://dunck.us/collab/GreaseMonkeyUserScripts";s:2:"dc";a:3:{s:7:"creator";s:8:"cawilcox";s:4:"date";s:20:"2005-04-08T06:09:00Z";s:7:"subject";s:73:"extensions firefox greasemonkey javascript mozilla repository scripts web";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940540;}i:19;a:8:{s:5:"about";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=473";s:5:"title";s:61:"Mozilla Update :: Extensions -- More Info: Currency Converter";s:4:"link";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=473";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T06:05:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940300;}i:20;a:10:{s:5:"about";s:42:"http://www.beelerspace.com/index.php?p=890";s:5:"title";s:22:"Us.ef.ul (beelerspace)";s:4:"link";s:42:"http://www.beelerspace.com/index.php?p=890";s:11:"description";s:50:"Beginers guide to using del.icio.us: Firefox hints";s:2:"dc";a:3:{s:7:"creator";s:6:"gasman";s:4:"date";s:20:"2005-04-08T06:04:00Z";s:7:"subject";s:17:"bookmarks firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:50:"Beginers guide to using del.icio.us: Firefox hints";s:14:"date_timestamp";i:1112940240;}i:21;a:8:{s:5:"about";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=468";s:5:"title";s:67:"Mozilla Update :: Extensions -- More Info: CountdownClock Extension";s:4:"link";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=468";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T06:03:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940180;}i:22;a:8:{s:5:"about";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=129";s:5:"title";s:53:"Mozilla Update :: Extensions -- More Info: Copy URL +";s:4:"link";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=129";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T06:02:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112940120;}i:23;a:8:{s:5:"about";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=239";s:5:"title";s:60:"Mozilla Update :: Extensions -- More Info: Context Highlight";s:4:"link";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=239";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T05:58:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112939880;}i:24;a:8:{s:5:"about";s:40:"http://www.linuxjournal.com/article/8004";s:5:"title";s:45:"Ten Mysteries of about:config | Linux Journal";s:4:"link";s:40:"http://www.linuxjournal.com/article/8004";s:2:"dc";a:3:{s:7:"creator";s:4:"maxv";s:4:"date";s:20:"2005-04-08T05:50:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112939400;}i:25;a:8:{s:5:"about";s:39:"http://rc3.org/cgi-bin/less.pl?arg=6887";s:5:"title";s:31:"rc3.org | Making Firefox scream";s:4:"link";s:39:"http://rc3.org/cgi-bin/less.pl?arg=6887";s:2:"dc";a:3:{s:7:"creator";s:7:"ihafidh";s:4:"date";s:20:"2005-04-08T05:49:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112939340;}i:26;a:10:{s:5:"about";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=404";s:5:"title";s:52:"Mozilla Update :: Extensions -- More Info: AutoMarks";s:4:"link";s:116:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&numpg=10&id=404";s:11:"description";s:80:"allows you to add your bookmarks so they are included in the Autocomplete search";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T05:48:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:80:"allows you to add your bookmarks so they are included in the Autocomplete search";s:14:"date_timestamp";i:1112939280;}i:27;a:8:{s:5:"about";s:72:"http://www.jerf.org/resources/xblinjs/whyNotMozilla/notXulTemplates.html";s:5:"title";s:33:"XUL Templates are a Waste of Time";s:4:"link";s:72:"http://www.jerf.org/resources/xblinjs/whyNotMozilla/notXulTemplates.html";s:2:"dc";a:3:{s:7:"creator";s:8:"numenius";s:4:"date";s:20:"2005-04-08T05:35:00Z";s:7:"subject";s:19:"firefox mozilla xul";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:13:"
+    
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112938500;}i:28;a:8:{s:5:"about";s:102:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=ALL&id=35";s:5:"title";s:49:"Mozilla Update :: Extensions -- More Info: ieview";s:4:"link";s:102:"https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=ALL&id=35";s:2:"dc";a:3:{s:7:"creator";s:9:"YouAreEar";s:4:"date";s:20:"2005-04-08T05:30:00Z";s:7:"subject";s:17:"extension firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:8:"
+    
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112938200;}i:29;a:8:{s:5:"about";s:40:"http://www.linuxjournal.com/article/8004";s:5:"title";s:29:"Ten Mysteries of about:config";s:4:"link";s:40:"http://www.linuxjournal.com/article/8004";s:2:"dc";a:3:{s:7:"creator";s:8:"zhouanle";s:4:"date";s:20:"2005-04-08T05:25:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:14:"date_timestamp";i:1112937900;}i:30;a:10:{s:5:"about";s:51:"http://www.pryan.org/mozilla/site/TheOneKEA/themer/";s:5:"title";s:17:"Install New Theme";s:4:"link";s:51:"http://www.pryan.org/mozilla/site/TheOneKEA/themer/";s:11:"description";s:243:"This extension provides a button inside the Firefox Theme Manager for installing new theme files from disk, and additionally adds a menu entry to the Theme Manager's right-click context menu entry. The latest version includes the it-IT locale.";s:2:"dc";a:3:{s:7:"creator";s:9:"cyatesxyz";s:4:"date";s:20:"2005-04-08T05:21:00Z";s:7:"subject";s:7:"firefox";}s:4:"taxo";a:2:{s:6:"topics";s:3:"
+  ";s:10:"topics_bag";s:5:"
+    ";}s:10:"topics_bag";s:3:"
+  ";s:6:"topics";s:1:"
+";s:7:"summary";s:243:"This extension provides a button inside the Firefox Theme Manager for installing new theme files from disk, and additionally adds a menu entry to the Theme Manager's right-click context menu entry. The latest version includes the it-IT locale.";s:14:"date_timestamp";i:1112937660;}}s:7:"channel";a:5:{s:5:"title";s:23:"del.icio.us/tag/firefox";s:4:"link";s:30:"http://del.icio.us/tag/firefox";s:5:"items";s:3:"
+ 
+";s:9:"items_seq";s:95:"
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ ";s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"1.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:13:"current_field";s:0:"";s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";s:13:"last_modified";s:31:"Fri, 08 Apr 2005 07:34:43 GMT
+";s:4:"etag";s:22:"31313132393435363833
+";}

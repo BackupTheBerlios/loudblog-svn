@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="de">
+
+<head>
+	<title><lb:sitename /> - <lb:siteslogan /></title>
+    <link rel="SHORTCUT ICON" href="http://sushiradio.de/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link rel="stylesheet" media="screen" href="screen.css" type="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+
+<body id="<lb:currentcategory short="true" />">
+
+      <div id="header">
+<h1><lb:link_website><lb:sitename /> &ndash; <lb:siteslogan /></lb:link_website></h1>
+</div>
+
+
+<lb:if_category>
+<div id="subheader">
+<p><lb:currentcategory /></p>
+</div>
+</lb:if_category>
+
+<!-- end of 'header' -->
+
+      <!-- start of 'rightcolumn' -->
+<div id="rightcolumn">
+<div class="block">
+<h3>&Uuml;ber sushiradio.de </h3>
+<p>sushiradio.de bringt mehrmals die Woche einen feinen Happen f&uuml;r deine Ohren, serviert auf mehreren Kan&auml;len - und soll damit Lust machen auf Podcasting!</p>
+<p>Mehr <a href="http://sushiradio.de/pivot/entry.php?id=7">&uuml;ber diesen Podcast</a> und <a href="http://sushiradio.de/pivot/entry.php?id=8">die K&ouml;che dahinter</a>.</p>
+</div>
+
+<div class="block">
+<h3>sushiradio.de abonnieren</h3>
+<p>Um automatisch die neuesten Sushis geliefert zu bekommen, abonniert man am besten die passenden Podcast-Adressen!</p>
+<p>Neu dabei? Hier findet Ihr die bekannte iPodder-Client-Software vorkonfiguriert mit allen Kan&auml;len: </p>
+<p><a href="http://sushiradio.de/podfetcher/"><img border=0 src="http://sushiradio.de/podfetcher/ipodder_leer.png" /></a><br /></p>
+
+<p><a href="http://sushiradio.de/pivot/entry.php?id=21">Woher bekomme ich mehr Informationen?</a></p>
+</div>
+
+<div class="block">
+<h3>Die Kan&auml;le</h3>
+<p>Du als Zuh&ouml;rer kannst entweder alle Eintr&auml;ge abonnieren oder einen unserer Kan&auml;le ausw&auml;hlen! :o)</p>
+<ul>
+  <li><a href="podcast.php">[Feed]</a>&nbsp;&nbsp;<a href="index.php">Alle Eintr&auml;ge</a></li>
+  <li><a href="podcast.php?cat=Musik">[Feed]</a>&nbsp;&nbsp;<a href="index.php?cat=Musik">Musik</a></li>
+  <li><a href="podcast.php?cat=KochenHaushalt">[Feed]</a>&nbsp;&nbsp;<a href="index.php?cat=KochenHaushalt">Kochen und Haushalt</a></li>
+  <li><a href="podcast.php?cat=Unterwegs">[Feed]</a>&nbsp;&nbsp;<a href="index.php?cat=Unterwegs">Unterwegs</a></li>
+  <li><a href="podcast.php?cat=Wissen">[Feed]</a>&nbsp;&nbsp;<a href="index.php?cat=Wissen">Wissen</a></li>
+</ul>
+</div>
+
+
+
+<div class="block">
+<h3>Frische Kommentare</h3>
+<lb:loop_comments global="true" number="5">
+<p><lb:link_permacomment><b><lb:commentname /></b>
+</lb:link_permacomment>(<lb:commentparent />): 
+<lb:commentmessage length="25" /></p>
+</lb:loop_comments>
+</div>
+
+<div class="block">
+<h3>Stuff</h3>
+<p>sushiradio.com is powered by <a href="http://loudblog.com">Loudblog</a></p>
+</div>
+
+</div>
+
+<!-- end of 'rightcolumn' -->
+
+	<div id="centercolumn">
+		<div class="content">
+		
+		
+<lb:loop_postings>
+
+<div class="entry">
+
+    <h2><lb:link_permalink><lb:title /></lb:link_permalink></h2>
+    <p class="subintro">(<lb:posted format="d.m.Y" />) abgelegt unter <lb:loop_postingcats><lb:postingcat link="true" /> </lb:loop_postingcats>, eingerollt von <lb:author /></p>
+      
+<lb:message />
+
+<lb:flashplayer width="300" height="40" />
+  
+<lb:if_audio>
+<p><lb:link_audio>Download now!</lb:link_audio> 
+(<lb:audiolength />min / <lb:audiosize />MB)</p>
+</lb:if_audio>
+
+<div class="entryfooter"><lb:link_permalink>permanenter Link</lb:link_permalink>  // <lb:link_comments>Comments</lb:link_comments></div>
+
+
+<!----- Commenting -->
+<lb:area_comments>
+
+<div class="tbcomrahmen"><a id="comm">Kommentare</a></div>
+    <div class="comment">
+<ol><p><b><lb:link_comments>Kommentare</lb:link_comments>:</b></p>
+    
+    <lb:loop_comments>
+    <li>
+    <lb:commentmessage />
+    <lb:commentflashplayer height="21" width="150" />
+    <br />
+    <b><lb:commentname /></b> <lb:commentposted format="d.m.Y" />
+    </li>
+    
+    </lb:loop_comments>
+</ol>
+    </div>
+
+
+
+    <div class="tbcomrahmen"><a id="commadd">Kommentar hinzuf&uuml;gen</a></div>
+    <div id="commentform"><br />
+<lb:area_makecomment>
+<div id="comminfo">
+<label>Name:</label>
+<lb:inputname />      
+<label>E-Mail:</label>
+<lb:inputmail />
+<label>URL:</label>
+<lb:inputweb />
+</div>
+<label>Kommentar:</label>
+<lb:inputmessage />
+<label>Audio Kommentar (bis <lb:commentlimit /> MB):</label>
+<lb:inputfile />
+
+<lb:buttonpreview />
+<lb:buttonsend />
+<p><small>Use Textile Syntax to style your text comment.</small></p>
+</lb:area_makecomment>
+    </div>
+</lb:area_comments>
+
+
+
+
+</div>
+</lb:loop_postings>
+
+
+
+		
+		</div><!-- end of 'content' -->
+		
+		<div id="prevnext">
+        <p><lb:link_prev>&nbsp;<< Previous Page&nbsp;</lb:link_prev>
+        &nbsp;&nbsp;&nbsp; 
+        <lb:link_next>&nbsp;Next Page >>&nbsp;</lb:link_next></p>
+    </div>
+
+	</div><!-- end of 'centercolumn' -->
+
+</body>
+</html>

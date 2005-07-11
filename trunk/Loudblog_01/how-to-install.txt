@@ -1,0 +1,33 @@
+
+
+// ----------------------------------------------------- //
+// Loudblog                                              //
+// easy-to-use audioblogging and podcasting              //
+// Version 0.1 (2005-04-11)                              // 
+// http://loudblog.com                                   //
+//                                                       //
+// Written by Gerrit van Aaken (gerrit@praegnanz.de)     //
+//                                                       //
+// Published under a Creative Commons License            //
+// http://creativecommons.org/licenses/by-nc-sa/2.0      //
+//                                                       //
+// Have Fun! Drop me a line if you like Loudblog!        //
+// ----------------------------------------------------- //
+
+
+
+
+YOUR FIRST LOUDBLOG INSTALLATION
+================================
+
+1) Transfer all files and folders to the desired directory on your server.
+2) Open "install.php" with the browser of your choice.
+3) Follow the instructions there.
+4) Delete "install.php" after a successful installation!
+
+
+
+UPDATING
+========
+
+Come on, this is version 0.1! You won't have to update anything!

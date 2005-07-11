@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title><lb:sitename /> - <lb:siteslogan /></title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="ruby.css" rel="stylesheet" media="screen" type="text/css" />
+    <lb:rssfeedhead />
+    <meta http-equiv="content-language" content="en" />
+    <meta name="generator" content="Loudblog" />
+	<meta name="description" content="<lb:sitedescription />" />
+	<script type="text/javascript" src="js/nifty.js"></script>
+	<script type="text/javascript">
+	window.onload=function(){
+	if(!NiftyCheck())
+    return;
+	Rounded("div.nifty","#E8E1DB","#FAF9F7");
+	Rounded("div.headline","#E8E1DB","#FF7832");
+}
+</script>
+</head>
+
+<body>
+<div id="container">
+<!--Header-->
+<div id="top1"><h1><lb:link_website><lb:sitename /></lb:link_website></h1>
+<p><lb:siteslogan /></p>
+</div>
+<!--ENDE Header-->
+
+<!--Hauptnavigation-->
+<div id="mainNavi">
+<ul>
+<li class="current"><a href="#" title="Start">Start</a></li>
+<li><a href="#" title="Info">Info</a></li>
+<li><a href="#" title="Imprint">Imprint</a></li>
+</ul>
+</div>
+<!--ENDE Hauptnavigation-->
+
+<!--Linke Spalte mit den Artikeln-->
+<div id="content">
+<div id="text">
+
+<!--Artikel Anfang****************-->
+<lb:loop_postings number="5" order="desc">
+    <div class="headline">
+        <h3><lb:link_permalink><lb:title /></lb:link_permalink></h3>
+    </div>
+
+    <div class="nifty">
+        <div class="niftyIN">
+            <h4><lb:author /> || <lb:posted /><lb:if_comments>&nbsp;|| 
+            <lb:link_comments>Comments</lb:link_comments></lb:if_comments></h4>
+
+			<div class="cat">
+            <ul>
+            <lb:loop_postingcats>
+            
+            <li>
+            
+            
+            <lb:postingcat link="true" /></li></lb:loop_postingcats>
+            </ul>
+            </div>
+
+            <div class="linie">&nbsp;</div>
+            <div class="linie">&nbsp;</div>
+
+            <!--Message****************-->
+            <div class="message">
+                <lb:message />
+            </div>
+
+            <!--Anfang Links****************-->
+            <div class="links">
+            <dl>
+            <lb:loop_hyperlinks>
+                <dt><lb:link_hyperlink><lb:hyperlinkname /></lb:link_hyperlink></dt>
+                <dd><lb:hyperlinkdescription /></dd>
+            </lb:loop_hyperlinks>
+            </dl>
+            </div>
+
+            <!--ANFANG Pods*******************-->
+            <div class="pods">
+
+            <!--Flash Player**************-->
+            <lb:if_mp3>
+            <div class="flPlayer">
+            <lb:flashplayer width="95" height="44" />
+            </div>
+            </lb:if_mp3>
+
+            <!--Download File************-->
+            <div class="download">
+            <lb:link_audio>Download File</lb:link_audio><br />
+            (<lb:audiolength /> min | <lb:audiosize /> MB | <lb:audiotype />)            </div>
+            <span class="noFloat none">&nbsp;</span>
+            </div>
+            
+            <lb:area_comments>
+            
+            <div class="linie">&nbsp;</div>
+            <div class="linie">&nbsp;</div>
+            <div class="kommBu">Comments <lb:link_podcast single="true" comments="true" posting="false"><img src="gif/rss.png" alt="rss" class="rss" /></lb:link_podcast></div>
+            
+                    <ol id="commentlist">
+        <lb:loop_comments>
+            <li>
+            <h4><lb:commentname /> says on <lb:commentposted format="M j, Y @ h:i A" />:</h4>
+            
+            <lb:if_commentaudio>
+            <div class="audiocomm">
+            <lb:commentflashplayer height="21" width="150" />
+            <p><lb:link_commentfile>Audio Comment</lb:link_commentfile> (<lb:commentsize /> MB | <lb:commentlength /> min)</p>
+            </div>
+            </lb:if_commentaudio>
+            <lb:commentmessage />
+            <div class="liniespace">&nbsp;</div>
+            </li>
+            
+        </lb:loop_comments>
+        </ol>
+            
+            
+
+            <div class="kommentar">
+            <h2>Your Comment</h2>
+            <lb:area_makecomment>
+            <lb:inputmessage />
+<label>Audio Comment (max. <lb:commentlimit /> MB)</label>
+<lb:inputfile />
+<label for="commentname">Name</label><lb:inputname />
+<label>eMail</label> <lb:inputmail />
+<label>http://</label> <lb:inputweb />
+<br /><br />
+<lb:buttonpreview />
+<lb:buttonsend />
+</lb:area_makecomment>
+</div>
+
+</lb:area_comments>
+
+            <!--ENDE PODS********-->
+        </div>
+    </div>
+    </lb:loop_postings>
+
+<!--ENDE ERSTER Artikel********-->
+<div id="prevnext">
+<p><lb:link_prev>&nbsp;&lt;&lt; Previous Page&nbsp;</lb:link_prev>
+&nbsp;&nbsp;&nbsp; 
+<lb:link_next>&nbsp;Next Page &gt;&gt;&nbsp;</lb:link_next></p>
+</div>
+</div>
+</div>
+<!--ENDE LINKE Spalte*********-->
+
+<!--Siedebar A ******-->
+
+<div id="sidebar-a">
+
+<!--Kategorien******-->
+<div class="aHead">Categories</div>
+<div class="sideAText">
+<ul>
+<lb:loop_categories sortby="name" order="asc">
+	<li><lb:link_catfeed><img src="gif/rss.gif" alt="RSS" /></lb:link_catfeed>
+	<lb:link_category><lb:categoryname /></lb:link_category></li>
+</lb:loop_categories>
+</ul>
+</div>
+
+<!--Neue Postings***********-->
+<div class="aHead">Fresh Postings</div>
+<div class="sideAPostings">
+<ul>
+<lb:loop_postings number="5" paging="false" forceloop="true">
+<li><lb:link_permalink><lb:title /></lb:link_permalink></li>
+</lb:loop_postings>
+</ul>
+</div>
+
+<!--News*************-->
+<div class="aHead">Newsticker</div>
+<div class="sideAText">
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+</div>
+
+<div class="aHead">Blogroll</div>
+<div class="sideAText">
+Use plugins to place data here!
+</div>
+
+<div class="aHead">&nbsp;</div>
+</div>
+
+<!--Siedebar B *********************-->
+<div id="sidebar-b">
+<div id="sideBIn">
+<div class="bHead">Subscribe this!</div>
+<div class="sideBText">
+<!-- 12 RSS **************-->
+<p><lb:link_podcast><img src="gif/rss.png" class="rss" alt="RSS" /> Podcast-Feed</lb:link_podcast></p>
+<p><lb:link_podcast comments="true"><img src="gif/rss.png" class="rss" alt="RSS" /> + Comments</lb:link_podcast></p>
+<p><lb:link_podcast postings="false" comments="true"><img src="gif/rss.png" class="rss" alt="RSS" /> Only Comments</lb:link_podcast></p>
+</div>
+
+<div class="bHead">Fresh Comments</div>
+<div class="sideBText">
+<ul>
+        <lb:loop_comments global="true" number="5">
+            <li><lb:link_permacomment><lb:commentname /></lb:link_permacomment> (<lb:commentparent />)</li>
+        </lb:loop_comments>
+        </ul>
+</div>
+
+<div class="bHead">Even more things</div>
+<div class="sideBText">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+</div>
+
+<div class="bHead">Copyright</div>
+<div class="sideBText impressum">
+&copy; Copyright 2005<br /><a href="http://kbbu.de">Your Name</a><br />
+<a href="http://loudblog.de" title="www.loudblog.de">Powered by Loudblog</a>
+<br /><br /><a href="http://validator.w3.org/check/referer" title="Validate this page as XHTML 1.0">XHTML</a> | 
+<a href="http://jigsaw.w3.org/css-validator/check/referer?warning=no&amp;profile=css2" title="Validate the CSS used on this page.">CSS</a>
+</div>
+<div class="bHead">&nbsp;</div>
+</div>
+</div>
+
+
+<!--FOOTER ******-->
+<div id="footer">&nbsp;</div>
+</div>
+</body>
+</html>

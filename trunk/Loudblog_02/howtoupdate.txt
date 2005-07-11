@@ -1,0 +1,35 @@
+
+
+YOU WANT TO UPDATE FROM LOUDBLOG 0.1 TO 0.2?
+============================================
+
+Here we go!
+
+1) Replace everything in the "loudblog" folder with the new stuff 
+   - EXCEPT FOR THE "custom" FOLDER!!!
+2) Open "loudblog/updatefrom01.php" with the browser of your choice.
+3) Now login, go to settings tab, and activate some cool new features.
+
+
+YOU WANT TO ACTIVATE THE COMMENTING FEATURE?
+============================================
+
+Well, you have to install a comments-enabled template for that.
+
+1) Go to http://loudblog.de/index.php?s=download
+2) Look for a "0.2"-template.
+3) Transfer this template-folder to "loudblog/custom/templates" on your server.
+4) Choose this template at the "settings" tab in your administration.
+5) And done!
+
+
+YOU WANT TO USE CGI/PERL FOR BETTER UPLOADING?
+==============================================
+
+Only useful if your server is able to execute cgi scripts.
+
+1) Locate the folder "loudblog/modules/cgi-bin".
+2) Set permission "777" for this folder.
+3) Locate files "upload.cgi" and "download.cgi" within "cgi-bin".
+4) Set permission "755" for these two files.
+5) That's it.

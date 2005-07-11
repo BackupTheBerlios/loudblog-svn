@@ -1,0 +1,307 @@
+/*   
+Theme Name: Amsterdam Nights
+Theme URI: http://www.rollsroick.de/
+Description: You can have it here and now. Your Blog in the look and feel of a warm summernight in Amsterdam.
+Author: Oliver Roick
+Author URI: http://www.rollsroick.de/
+Version: 1.5.1
+
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+*/
+
+
+/* Da Basics */
+
+body {
+	background-color: #141C29;
+	font-family: "Tahoma", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+a, a:visited, a:link {
+	color: #2E60A9;
+}
+
+a:hover {
+	text-decoration: none;
+	background-color: #FFF7D1;
+}
+
+a:active {
+	background-color: #FFF7D1;
+}
+
+input, textarea {
+	background-color: #FFF7D1;
+}
+
+input:focus, textarea:focus {
+	background-color: #FFF;
+}
+
+#wrapper {
+	background-color: #2D5FA8;
+	background-image: url(images/bg_main.gif);
+	background-repeat: repeat-y;
+	margin: 20px auto;
+	width: 650px;
+}
+
+
+/* Header */
+
+#head {
+	height: 273px;
+	width: 650px;
+	background-image: url(images/bg_head.jpg);
+}
+
+#head div#blog_title {
+	font-family: "Trebuchet MS", "Tahoma", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 2.5em;
+	color: #FCFFF7;
+	position: relative;
+	top: 170px;
+	left: 30px;
+}
+
+#head div#blog_title a {
+	color: #FCFFF7;
+	text-decoration: none;
+}
+
+#head div#blog_title a:hover {
+	background-color: transparent;
+}
+
+
+/*Main Content*/
+
+#main {
+	width: 425px;
+	float: left;
+	color: #141C29;
+}
+
+#main h1, #main h2, #main h3 {
+	margin: 0 20px 5px 47px;
+	font-family: "Trebuchet MS", "Tahoma", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 2.0em;
+	font-weight: normal;
+	color: #2E60A9;
+}
+
+#main h2 {
+	font-size: 1.5em;
+	margin-left: 50px;
+}
+
+#main h3 {
+	font-size: 1.2em;
+	margin-left: 50px;
+}
+
+#main h1 a, #main h2 a, #main h3 a {
+	text-decoration: none;
+}
+
+#main p, #main div.navigation, #main dl, #main ul, #main ol, #main div.post_info, #main div.date, #main #searchform {
+	margin: 0 20px 15px 50px;
+	text-align: justify;
+	line-height: 1.4em;
+}
+
+#main div.navigation {
+	clear: both;
+	margin: 25px 20px 25px 50px;
+}
+
+.left {
+	text-align: left;
+	width: 50%;
+	float: left;
+}
+
+.right {
+	text-align: right;
+	width: 50%;
+	float: right;
+}
+
+#main div.post_info {
+	border-top: 1px dotted #141C29;
+	margin-bottom: 3em;
+}
+
+#main div.date {
+	margin-bottom: 0px;
+}
+
+
+/* Sidebar */
+
+#sidebar {
+	float: left;
+	width: 220px;
+	margin: 20px 0 0 0;
+	padding: 0;
+	list-style: none;
+	background-image: url(images/bg_sidebar_main.gif);
+	background-repeat: repeat-y;
+}
+
+#sidebar h4 {
+	background-image: url(images/bg_sidebar_head.gif);
+	background-repeat: no-repeat;
+	background-color: transparent;
+	font-size: 1.3em;
+	font-weight: normal;
+	font-family: "Trebuchet MS", "Tahoma", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 25px 0 14px 20px;
+}
+
+#sidebar ul, #sidebar ol, #sidebar dl {
+	margin: 0;
+	padding: 0 25px 40px 0;
+	list-style: none;
+	background-image: url(images/bg_sidebar_footer.gif);
+	background-repeat: no-repeat;
+	background-position: bottom left;
+}
+
+#sidebar p {
+	margin: 0;
+	padding: 0 25px 40px 30px;
+	background-image: url(images/bg_sidebar_footer.gif);
+	background-repeat: no-repeat;
+	background-position: bottom left;
+}
+
+#sidebar ul li {
+	background: transparent;
+	padding: 0 0 3px 30px;
+}
+
+img.rss {
+margin-bottom: 0.2em;
+vertical-align: middle;
+border: 0;
+}
+
+h2 a:hover {
+background-color: white;
+}
+
+
+/*Footer*/
+
+#footer {
+	width: 650px;
+	background-image: url(images/bg_footer.gif);
+	background-repeat: no-repeat;
+	background-color: #2D5FA8;
+	clear: both;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	color: #FCFFF7;
+}
+
+#footer p {
+	margin: 0 50px;
+	font-size: 0.8em;
+	line-height: 1.5em;
+}
+
+#footer a, #footer a:link, #footer a:visited, #footer a:hover, #footer a:active {
+	color: #FCFFF7;
+	background: transparent;
+}
+
+
+/* Comment Styles */
+
+#commentform {
+	margin-bottom: 40px;
+}
+
+h2.commentheadline {
+padding: 0 0 6px 0;
+}
+
+.commentflash {
+float: left;
+padding: 0 10px 5px 4px;
+}
+
+#commentform input, #commentform textarea {
+	width: 305px;
+	margin: 0 20px;
+	padding: 3px;
+	color: #141C29;
+	font-family: "Tahoma", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1.0em;
+	line-height: 1.4em;
+}
+
+textarea {
+height: 200px;
+}
+
+#commentform input[type=submit] {
+	width: 13em;
+	float: right;
+}
+
+#commentform input.commentfile {
+width: auto;
+}
+
+#commentform label {
+	display: block;
+	padding-bottom: 3px;
+}
+
+
+#commentlist {
+	margin: 0;
+	padding: 0;
+	margin: 0 20px 15px 50px;
+	line-height: 1.4em;
+	list-style-type: none;
+}
+
+#commentlist li {
+	padding: 0;
+	margin: 0 0 30px 0;
+}
+
+#commentlist li p {
+	padding: 0;
+	margin:  0 3px 10px 3px;
+}
+
+#commentlist cite {
+	display: block;
+	background-color: #FFF7D1;
+	padding: 3px;
+	font-style: normal;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+#searchform input[type=submit] {
+	margin-top: 2px;
+}
+
+#prevnext {
+padding: 20px 0;
+}
+
+#prevnext p {
+text-align: right;
+}
+
